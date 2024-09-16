@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    background: url('images/Background_1438x810.png');
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: url('space-arena-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+header p {
+    font-size: 2.0rem;
+    margin-bottom: 3rem;
+}
+
+/* Fancy font styling for h3 headings */
+h3 {
+    font-family: 'Duru Sans', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+/* Fancy font styling for special text */
+h2,
+.fancy-font {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+    background-color: #ff5722;
+    padding: 0.75rem 1.5rem;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.steam-btn {
+    background-color: #4CAF50;
+}
+
+section {
+    padding: 3rem 0;
+}
+
+#about,
+#features,
+#download {
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* Steam-like card styling */
+.steam-card {
+    display: flex;
+    align-items: center;
+    background-color: #2d3748;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.steam-left {
+    flex: 0 0 150px;
+    /* Adjust the size of the image container */
+    margin-right: 20px;
+}
+
+.steam-cover {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.steam-middle {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.steam-middle h2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #e8e8e8;
+}
+
+.steam-middle p {
+    font-size: 1rem;
+    color: #b0b0b0;
+}
+
+.steam-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.availability {
+    font-size: 1.25rem;
+    color: #a3ff84;
+    margin-bottom: 10px;
+}
+
+.steam-btn {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.steam-btn:hover {
+    background-color: #45a049;
+}
+
+
+.steam-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.screenshots-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 2.6rem;
+    margin-bottom: 60px;
+}
+
+.screenshots-gallery img {
+    width: 50%;
+    border-radius: 8px;
+}
+
+/* Game Features Section */
+#features {
+    padding: 60px 0;
+    text-align: center;
+}
+
+#features h2 {
+    margin-bottom: 0px;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.feature {
+    width: 45%;
+    background: linear-gradient(135deg, #1f2c3c, #1d2a3a);
+    background: url('images/hero.png') no-repeat left;
+    border-radius: 10px;
+    padding: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature h3 {
+    font-size: 1.75rem;
+    color: #fff;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.feature p {
+    font-size: 1.3rem;
+    color: #b0b0b0;
+    line-height: 1.5;
+}
+
+/* Marketing Section */
+#marketing {
+    padding: 40px 0;
+    /* Slight shadow */
+    margin-bottom: 40px;
+}
+
+.marketing-container {
+    width: 60%;
+    min-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.marketing-image {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.marketing-text h2 {
+    font-size: 1.9rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.marketing-text p {
+    font-size: 1.2rem;
+    color: #e7e6e6;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.marketing-text {
+    padding: 60px;
+    background-color: #1d2a3a;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Slight shadow for the text box */
+}
+
+/* Social Media Icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 20px;
+}
+
+.social-link {
+    font-size: 3rem;
+    /* Icon size */
+    color: #b0b0b0;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-link:hover {
+    color: #ff5722;
+    /* Icon hover color */
+    transform: scale(1.2);
+    /* Slight scaling on hover */
+}
+
+#social-media h2 {
+    text-align: center;
+}
+
+footer {
+    background-color: #000;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+footer a {
+    color: #fff;
+}
