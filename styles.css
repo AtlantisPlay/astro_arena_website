@@ -177,7 +177,6 @@ h2 {
 
 /* Game Features Section */
 #features {
-    padding: 60px 0;
     text-align: center;
 }
 
@@ -192,7 +191,7 @@ h2 {
 }
 
 .feature {
-    width: 45%;
+    width: 48%;
     background: linear-gradient(135deg, #1f2c3c, #1d2a3a);
     background: url('images/hero.png') no-repeat left;
     border-radius: 10px;
@@ -217,8 +216,8 @@ h2 {
 }
 
 .feature-img {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     margin-bottom: 30px;
 }
 
@@ -261,6 +260,37 @@ h2 {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     /* Slight shadow for the text box */
+}
+
+.character-blocks {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.character-block {
+    flex: 1;
+    text-align: center;
+    padding: 20px 0;
+    margin: 0 20px;
+}
+
+.character-image {
+    width: 125px;
+    height: 125px;
+    margin-bottom: 10px;
+}
+
+.character-text {
+    font-family: 'Duru Sans', sans-serif;
+    font-size: 1.5rem;
+    color: #f3cc54;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.character-blocks .character-block {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 /* Social Media Icons */
