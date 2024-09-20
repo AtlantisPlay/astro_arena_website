@@ -283,13 +283,21 @@ section {
 }
 
 footer {
-    background-color: #000;
+    background-color: #1f1e1e;
     text-align: center;
-    padding: 1.5rem 0;
+    padding: 0.8rem 0;
 }
 
 footer a {
     color: #e7e6e6;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    margin-right: 6px;
 }
 
 /* Media queries for responsive design */
