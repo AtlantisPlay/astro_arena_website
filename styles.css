@@ -41,7 +41,7 @@ header div.container p {
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 3.2rem;
     margin-bottom: 1rem;
 }
 
@@ -205,7 +205,6 @@ section {
     min-width: 600px;
     margin: 0 auto;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .article-image {
@@ -217,7 +216,7 @@ section {
     padding: 60px;
     background-color: #1d2a3a;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     text-align: left;
 }
 
