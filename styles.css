@@ -220,6 +220,10 @@ section {
     text-align: left;
 }
 
+.article-text h2 {
+    margin-top: 2.2rem;
+}
+
 .article-text p {
     font-size: 1.3rem;
     color: #e7e6e6;
