@@ -272,7 +272,7 @@ section {
 
 .social-link {
     font-size: 3rem;
-    color: #cda637;
+    color: #d3bb6d;
     transition: color 0.3s ease, transform 0.3s ease;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.3), 0 0 5px rgba(0, 0, 0, 0.3), 0 0 7px rgba(0, 0, 0, 0.3);
 }
