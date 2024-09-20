@@ -258,7 +258,7 @@ section {
 .character-text {
     font-family: 'Duru Sans', sans-serif;
     font-size: 1.3rem;
-    color: #f3cc54;
+    color: #d6b44d;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -272,8 +272,9 @@ section {
 
 .social-link {
     font-size: 3rem;
-    color: #b0b0b0;
+    color: #cda637;
     transition: color 0.3s ease, transform 0.3s ease;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.3), 0 0 5px rgba(0, 0, 0, 0.3), 0 0 7px rgba(0, 0, 0, 0.3);
 }
 
 .social-link:hover {
