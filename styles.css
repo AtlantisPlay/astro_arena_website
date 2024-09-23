@@ -38,6 +38,7 @@ header p {
 
 header div.container p {
     font-size: 2.2rem;
+    letter-spacing: -0.03rem;
 }
 
 h1 {
@@ -177,6 +178,7 @@ section {
     color: #e7e6e6;
     line-height: 1.6;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .header-article {
