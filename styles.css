@@ -298,8 +298,8 @@ footer i {
     }
 
     .video iframe {
-        width: 100%;
-        height: auto;
+        aspect-ratio: 16 / 9;
+        width: 100% !important;
     }
 
     .availability {
