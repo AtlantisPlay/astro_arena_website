@@ -334,6 +334,10 @@ footer i {
         min-width: 0;
     }
 
+    .article-text {
+        padding: 20px;
+    }
+
     .social-icons {
         gap: 20px;
     }
