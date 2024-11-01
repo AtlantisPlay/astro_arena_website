@@ -1,3 +1,7 @@
+---
+title: The Story
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,6 +11,7 @@
     <meta name="description"
         content="Astro Arena - A fast-paced, team-based 2D space battleground where Rock, Paper, and Scissors clash.">
     <title>Astro Arena</title>
+    <base href="{{site.data[site.active_lang].index.base_url}}">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +32,7 @@
     <header>
         <div class="container">
             <img src="images/logo.png" alt="Astro Arena" class="logo-image" />
-            <p>The ultimate 2D space battleground where Rock, Paper, and Scissors clash!</p>
+            <p>{{site.data[site.active_lang].index.title}}</p>
         </div>
     </header>
 
@@ -38,7 +43,7 @@
     </section>
 
     <section id="screenshots">
-        <h2>Screenshots</h2>
+        <h2>{{site.data[site.active_lang].index.screenshots}}</h2>
         <div class="container">
             <div class="screenshots-gallery">
                 <img src="images/screens/Screenshot_1_1920px (1).jpg" alt="Astro Arena Screenshot 1">
@@ -50,7 +55,7 @@
     </section>
 
     <section id="videos">
-        <h2>Gameplay</h2>
+        <h2>{{site.data[site.active_lang].index.gameplay}}</h2>
         <div class="container">
             <div class="video">
                 <iframe src="https://www.youtube.com/embed/3Vp2t06UJ_Q"></iframe>
@@ -59,70 +64,50 @@
     </section>
 
     <section id="features">
-        <h2>Features</h2>
+        <h2>{{site.data[site.active_lang].index.features}}</h2>
         <div class="container">
             <div class="feature-list">
-                <div class="feature">
-                    <img src="images/features/13.png" alt="Dynamic 2D Space Arena" class="feature-img" />
-                    <h3>Dynamic 2D Space Arena</h3>
-                    <p>Battle in a vibrant, action-packed 2D space environment where quick reflexes and tactical
-                        decisions are key to victory.</p>
-                </div>
-                <div class="feature">
-                    <img src="images/features/4.png" alt="Powerful Abilities" class="feature-img" />
-                    <h3>Powerful Abilities</h3>
-                    <p>Earn points during matches and unlock game-changing abilities like invisibility and speed boosts
-                        to gain the upper hand.</p>
-                </div>
-                <div class="feature">
-                    <img src="images/features/1.png" alt="Team-Based Multiplayer" class="feature-img" />
-                    <h3>Team-Based Multiplayer</h3>
-                    <p>Join forces with friends or go head-to-head against players worldwide in intense, competitive
-                        team battles.</p>
-                </div>
-                <div class="feature">
-                    <img src="images/features/7.png" alt="Resource Management" class="feature-img" />
-                    <h3>Resource Management</h3>
-                    <p>Collect valuable resources scattered across the arena and strategically use them to turn the tide
-                        of the battle in your favor.</p>
-                </div>
+                {% for feature_item in site.data[site.active_lang].index.features_list %}
+                    <div class="feature">
+                        <img src="images/features/{{ feature_item.image }}.png" alt="{{ feature_item.title }}" class="feature-img" />
+                        <h3>{{ feature_item.title }}</h3>
+                        <p>{{ feature_item.description }}</p>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
 
     <section id="article">
-        <h2>Welcome to Astro Arena!</h2>
+        <h2>{{site.data[site.active_lang].index.welcome}}</h2>
         <div class="article-container">
             <img src="images/Screen_1920x1080.png" alt="Astro Arena Banner" class="article-image">
             <div class="article-text">
                 <p>
-                    Step into the ultimate 2D space battleground where strategy, quick reflexes, and teamwork come
-                    together. With powerful abilities to unlock and dynamic environments to explore, every match is a
-                    new challenge.
+                    {{site.data[site.active_lang].index.article_intro}}
                 </p>
                 <p>
-                    Choose your character—Rock, Paper, or Scissors—and battle it out in an intense, fast-paced arena.
+                    {{site.data[site.active_lang].index.article_text}}
                 </p>
                 <div class="character-blocks">
                     <div class="character-block">
                         <img src="images/characters/rock.png" alt="Rock Character" class="character-image">
-                        <div class="character-text">Rock</div>
+                        <div class="character-text">{{site.data[site.active_lang].index.rock}}</div>
                     </div>
                     <div class="character-block">
                         <img src="images/characters/paper.png" alt="Paper Character" class="character-image">
-                        <div class="character-text">Paper</div>
+                        <div class="character-text">{{site.data[site.active_lang].index.paper}}</div>
                     </div>
                     <div class="character-block">
                         <img src="images/characters/scissors.png" alt="Scissors Character" class="character-image">
-                        <div class="character-text">Scissors</div>
+                        <div class="character-text">{{site.data[site.active_lang].index.scissors}}</div>
                     </div>
                 </div>
                 <p>
-                    Whether you're collecting resources, outwitting your opponents, or helping your team dominate,
-                    Astro Arena offers non-stop action.
+                    {{site.data[site.active_lang].index.article_outro}}
                 </p>
                 <p>
-                    Wishlist today to be the first to join the battle when it launches!
+                    {{site.data[site.active_lang].index.article_wishlist}}
                 </p>
             </div>
         </div>
@@ -135,7 +120,7 @@
     </section>
 
     <section id="social-media">
-        <h2>Follow Us!</h2>
+        <h2>{{site.data[site.active_lang].index.follow_us}}</h2>
         <div class="container">
             <div class="social-icons">
                 <a href="https://x.com/AstroArenaSpace" class="social-link" title="Twitter" target="_blank"><i
@@ -154,8 +139,8 @@
 
     <footer>
         <div class="container">
-            <p><a href="about.html">About Astro Arena</a> | <a href="story.html">The Story</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
-                class="fab fa-steam"></i>Steam Store Page</a></p>
+            <p><a href="about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
+                class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
             <p>&copy; 2024 <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. All rights reserved.
             </p>
         </div>
