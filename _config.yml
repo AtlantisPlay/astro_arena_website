@@ -34,7 +34,7 @@ plugins:
   - jekyll-polyglot
 
 #I18n
-languages: ["en", "de", "uk"]
+languages: ["en", "de", "ja", "uk"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: false

@@ -1,0 +1,30 @@
+base_url: ../
+title: 岩、紙、ハサミがぶつかり合う究極の2D宇宙戦場！
+screenshots: スクリーンショット
+gameplay: ゲームプレイ
+features: 特徴
+welcome: Astro Arenaへようこそ！
+follow_us: フォローしてください！
+features_list:
+  - image: 13
+    title: ダイナミックな2D宇宙アリーナ
+    description: 鮮やかでアクション満載の2D宇宙空間で戦い、素早い反射神経と戦術的な判断が勝利の鍵です。
+  - image: 4
+    title: 強力なアビリティ
+    description: 試合中にポイントを獲得し、透明化やスピードアップなどのゲームを変えるアビリティをアンロックして優位に立ちましょう。
+  - image: 1
+    title: チームベースのマルチプレイヤー
+    description: 友達とチームを組むか、世界中のプレイヤーと激しい競争的なチームバトルで対戦しましょう。
+  - image: 7
+    title: リソース管理
+    description: アリーナに散らばる貴重なリソースを集め、戦いの流れを自分に有利に変えるために戦略的に使用しましょう。
+article_intro: 戦略、素早い反射神経、チームワークが結集する究極の2D宇宙戦場に足を踏み入れましょう。強力なアビリティのアンロックやダイナミックな環境の探索により、毎試合が新たな挑戦です。
+article_text: キャラクターを選択しましょう ― 岩、紙、またはハサミ ― そして、激しくスピーディーなアリーナで戦いましょう。
+article_outro: リソースを集め、敵を出し抜き、チームの勝利を支援するなど、Astro Arenaはアクションが途切れることはありません。
+article_wishlist: ウィッシュリストに追加して、リリース時に真っ先に戦いに参加しましょう！
+rock: 岩
+paper: 紙
+scissors: ハサミ
+about: Astro Arenaについて
+story: ストーリー
+store_page: Steamストアページ
