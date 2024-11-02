@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Language" content="{{site.active_lang}}">
-    <meta name="description"
-        content="Astro Arena - A fast-paced, team-based 2D space battleground where Rock, Paper, and Scissors clash.">
+    <meta name="description" content="{{site.data[site.active_lang].index.meta_description}}">
     <title>{{ page.title }}</title>
     {% I18n_Headers %}
     <base href="{{site.data[site.active_lang].index.base_url}}">
@@ -51,7 +50,7 @@
         <div class="container">
             <p><a href="/about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="/story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
                 class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
-            <p>&copy; 2024 <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. All rights reserved.
+            <p>&copy; {{ site.time | date: '%Y' }} <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. {{site.data[site.active_lang].index.rights_reserved}}
             </p>
         </div>
     </footer>

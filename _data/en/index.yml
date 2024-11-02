@@ -1,5 +1,6 @@
 base_url: /
 title: The ultimate 2D space battleground where Rock, Paper, and Scissors clash!
+meta_description: A fast-paced, team-based 2D space battlefield where Rock, Paper, and Scissors clash.
 screenshots: Screenshots
 gameplay: Gameplay
 features: Features
@@ -28,3 +29,4 @@ scissors: Scissors
 about: About Astro Arena
 story: The Story
 store_page: Steam Store Page
+rights_reserved: All Rights Reserved.

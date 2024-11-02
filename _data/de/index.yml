@@ -1,30 +1,32 @@
 base_url: ../
-title: Das ultimative 2D-Weltraumschlachtfeld, wo Stein, Papier und Schere aufeinandertreffen!
+title: Das ultimative 2D-Weltraum-Schlachtfeld, wo Stein, Papier und Schere aufeinandertreffen!
+meta_description: Ein rasantes, teambasiertes 2D-Weltraum-Schlachtfeld, wo Stein, Papier und Schere aufeinandertreffen.
 screenshots: Screenshots
 gameplay: Gameplay
-features: Funktionen
-welcome: Willkommen bei Astro Arena!
-follow_us: Folgen Sie uns!
+features: Features
+welcome: Willkommen in der Astro Arena!
+follow_us: Folge uns!
 features_list:
   - image: 13
-    title: Dynamische 2D-Weltraumarena
-    description: Kämpfen Sie in einer lebendigen, actiongeladenen 2D-Weltraumumgebung, in der schnelle Reflexe und taktische Entscheidungen der Schlüssel zum Sieg sind.
+    title: Dynamische 2D-Weltraum-Arena
+    description: Kämpfe in einer lebendigen, actiongeladenen 2D-Weltraum-Umgebung, in der schnelle Reflexe und taktische Entscheidungen der Schlüssel zum Sieg sind.
   - image: 4
     title: Mächtige Fähigkeiten
-    description: Verdienen Sie Punkte während der Matches und schalten Sie spielverändernde Fähigkeiten wie Unsichtbarkeit und Geschwindigkeitsboosts frei, um die Oberhand zu gewinnen.
+    description: Sammle während der Matches Punkte und schalte spielverändernde Fähigkeiten wie Unsichtbarkeit und Geschwindigkeitsboosts frei, um die Oberhand zu gewinnen.
   - image: 1
-    title: Team-basierter Mehrspieler
-    description: Schließen Sie sich mit Freunden zusammen oder treten Sie weltweit gegen Spieler in intensiven, wettbewerbsorientierten Teamkämpfen an.
+    title: Teambasierter Multiplayer
+    description: Schließe dich mit Freunden zusammen oder tritt in intensiven, wettbewerbsorientierten Teamkämpfen gegen Spieler weltweit an.
   - image: 7
     title: Ressourcenmanagement
-    description: Sammeln Sie wertvolle Ressourcen, die in der Arena verteilt sind, und setzen Sie sie strategisch ein, um das Blatt der Schlacht zu Ihren Gunsten zu wenden.
-article_intro: Betreten Sie das ultimative 2D-Weltraumschlachtfeld, in dem Strategie, schnelle Reflexe und Teamarbeit zusammenkommen. Mit mächtigen freischaltbaren Fähigkeiten und dynamischen Umgebungen wird jedes Match zu einer neuen Herausforderung.
-article_text: Wählen Sie Ihren Charakter – Stein, Papier oder Schere – und kämpfen Sie in einer intensiven, schnellen Arena.
-article_outro: Egal, ob Sie Ressourcen sammeln, Ihre Gegner überlisten oder Ihrem Team zum Sieg verhelfen – Astro Arena bietet actiongeladene Unterhaltung.
-article_wishlist: Zur Wunschliste hinzufügen, um als Erster dabei zu sein, wenn die Schlacht beginnt!
+    description: Sammle wertvolle Ressourcen, die über die Arena verstreut sind, und setze sie strategisch ein, um das Blatt der Schlacht zu deinen Gunsten zu wenden.
+article_intro: Tauche ein in das ultimative 2D-Weltraum-Schlachtfeld, wo Strategie, schnelle Reflexe und Teamarbeit aufeinandertreffen. Mit mächtigen Fähigkeiten zum Freischalten und dynamischen Umgebungen zum Erkunden ist jedes Match eine neue Herausforderung.
+article_text: Wähle deinen Charakter—Stein, Papier oder Schere—und kämpfe in einer intensiven, rasanten Arena.
+article_outro: Ob du Ressourcen sammelst, deine Gegner überlistest oder deinem Team hilfst zu dominieren, die Astro Arena bietet Action ohne Pause.
+article_wishlist: Setze es heute auf deine Wunschliste, um als Erster dabei zu sein, wenn die Schlacht beginnt!
 rock: Stein
 paper: Papier
 scissors: Schere
 about: Über Astro Arena
 story: Die Geschichte
-store_page: Steam-Shop-Seite
+store_page: Steam-Shopseite
+rights_reserved: Alle Rechte vorbehalten.
