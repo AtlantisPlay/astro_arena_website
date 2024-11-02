@@ -1,150 +1,94 @@
 ---
-title: The Story
+layout: default
+title: Astro Arena
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<header>
+    <div class="container">
+        <img src="images/logo.png" alt="Astro Arena" class="logo-image" />
+        <p>{{site.data[site.active_lang].index.title}}</p>
+    </div>
+</header>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Astro Arena - A fast-paced, team-based 2D space battleground where Rock, Paper, and Scissors clash.">
-    <title>Astro Arena</title>
-    <base href="{{site.data[site.active_lang].index.base_url}}">
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <!-- Fonts for headings -->
-    <link href="https://fonts.googleapis.com/css2?family=Duru+Sans&family=Jost&display=swap" rel="stylesheet">
-    <!-- Font Awesome for social media icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
-    <!-- Favicon links -->
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="styles.css">
-</head>
+<section id="steam-section-top">
+    <div class="steam-container">
+        <iframe src="https://store.steampowered.com/widget/2997190/" frameborder="0" class="steam-card"></iframe>
+    </div>
+</section>
 
-<body>
-    <header>
-        <div class="container">
-            <img src="images/logo.png" alt="Astro Arena" class="logo-image" />
-            <p>{{site.data[site.active_lang].index.title}}</p>
+<section id="screenshots">
+    <h2>{{site.data[site.active_lang].index.screenshots}}</h2>
+    <div class="container">
+        <div class="screenshots-gallery">
+            <img src="images/screens/Screenshot_1_1920px (1).jpg" alt="Astro Arena Screenshot 1">
+            <img src="images/screens/Screenshot_2_1920px (1).jpg" alt="Astro Arena Screenshot 2">
+            <img src="images/screens/Screenshot_4_1920px (1).jpg" alt="Astro Arena Screenshot 3">
+            <img src="images/screens/Screenshot_5_1920px (1).jpg" alt="Astro Arena Screenshot 4">
         </div>
-    </header>
+    </div>
+</section>
 
-    <section id="steam-section-top">
-        <div class="steam-container">
-            <iframe src="https://store.steampowered.com/widget/2997190/" frameborder="0" class="steam-card"></iframe>
+<section id="videos">
+    <h2>{{site.data[site.active_lang].index.gameplay}}</h2>
+    <div class="container">
+        <div class="video">
+            <iframe src="https://www.youtube.com/embed/3Vp2t06UJ_Q"></iframe>
         </div>
-    </section>
+    </div>
+</section>
 
-    <section id="screenshots">
-        <h2>{{site.data[site.active_lang].index.screenshots}}</h2>
-        <div class="container">
-            <div class="screenshots-gallery">
-                <img src="images/screens/Screenshot_1_1920px (1).jpg" alt="Astro Arena Screenshot 1">
-                <img src="images/screens/Screenshot_2_1920px (1).jpg" alt="Astro Arena Screenshot 2">
-                <img src="images/screens/Screenshot_4_1920px (1).jpg" alt="Astro Arena Screenshot 3">
-                <img src="images/screens/Screenshot_5_1920px (1).jpg" alt="Astro Arena Screenshot 4">
-            </div>
-        </div>
-    </section>
-
-    <section id="videos">
-        <h2>{{site.data[site.active_lang].index.gameplay}}</h2>
-        <div class="container">
-            <div class="video">
-                <iframe src="https://www.youtube.com/embed/3Vp2t06UJ_Q"></iframe>
-            </div>
-        </div>
-    </section>
-
-    <section id="features">
-        <h2>{{site.data[site.active_lang].index.features}}</h2>
-        <div class="container">
-            <div class="feature-list">
-                {% for feature_item in site.data[site.active_lang].index.features_list %}
-                    <div class="feature">
-                        <img src="images/features/{{ feature_item.image }}.png" alt="{{ feature_item.title }}" class="feature-img" />
-                        <h3>{{ feature_item.title }}</h3>
-                        <p>{{ feature_item.description }}</p>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-    </section>
-
-    <section id="article">
-        <h2>{{site.data[site.active_lang].index.welcome}}</h2>
-        <div class="article-container">
-            <img src="images/Screen_1920x1080.png" alt="Astro Arena Banner" class="article-image">
-            <div class="article-text">
-                <p>
-                    {{site.data[site.active_lang].index.article_intro}}
-                </p>
-                <p>
-                    {{site.data[site.active_lang].index.article_text}}
-                </p>
-                <div class="character-blocks">
-                    <div class="character-block">
-                        <img src="images/characters/rock.png" alt="Rock Character" class="character-image">
-                        <div class="character-text">{{site.data[site.active_lang].index.rock}}</div>
-                    </div>
-                    <div class="character-block">
-                        <img src="images/characters/paper.png" alt="Paper Character" class="character-image">
-                        <div class="character-text">{{site.data[site.active_lang].index.paper}}</div>
-                    </div>
-                    <div class="character-block">
-                        <img src="images/characters/scissors.png" alt="Scissors Character" class="character-image">
-                        <div class="character-text">{{site.data[site.active_lang].index.scissors}}</div>
-                    </div>
+<section id="features">
+    <h2>{{site.data[site.active_lang].index.features}}</h2>
+    <div class="container">
+        <div class="feature-list">
+            {% for feature_item in site.data[site.active_lang].index.features_list %}
+                <div class="feature">
+                    <img src="images/features/{{ feature_item.image }}.png" alt="{{ feature_item.title }}" class="feature-img" />
+                    <h3>{{ feature_item.title }}</h3>
+                    <p>{{ feature_item.description }}</p>
                 </div>
-                <p>
-                    {{site.data[site.active_lang].index.article_outro}}
-                </p>
-                <p>
-                    {{site.data[site.active_lang].index.article_wishlist}}
-                </p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section id="article">
+    <h2>{{site.data[site.active_lang].index.welcome}}</h2>
+    <div class="article-container">
+        <img src="images/Screen_1920x1080.png" alt="Astro Arena Banner" class="article-image">
+        <div class="article-text">
+            <p>
+                {{site.data[site.active_lang].index.article_intro}}
+            </p>
+            <p>
+                {{site.data[site.active_lang].index.article_text}}
+            </p>
+            <div class="character-blocks">
+                <div class="character-block">
+                    <img src="images/characters/rock.png" alt="Rock Character" class="character-image">
+                    <div class="character-text">{{site.data[site.active_lang].index.rock}}</div>
+                </div>
+                <div class="character-block">
+                    <img src="images/characters/paper.png" alt="Paper Character" class="character-image">
+                    <div class="character-text">{{site.data[site.active_lang].index.paper}}</div>
+                </div>
+                <div class="character-block">
+                    <img src="images/characters/scissors.png" alt="Scissors Character" class="character-image">
+                    <div class="character-text">{{site.data[site.active_lang].index.scissors}}</div>
+                </div>
             </div>
-        </div>
-    </section>
-
-    <section id="steam-section-bottom">
-        <div class="steam-container">
-            <iframe src="https://store.steampowered.com/widget/2997190/" frameborder="0" class="steam-card"></iframe>
-        </div>
-    </section>
-
-    <section id="social-media">
-        <h2>{{site.data[site.active_lang].index.follow_us}}</h2>
-        <div class="container">
-            <div class="social-icons">
-                <a href="https://x.com/AstroArenaSpace" class="social-link" title="Twitter" target="_blank"><i
-                        class="fa-brands fa-x-twitter"></i></a>
-                <a href="https://www.youtube.com/channel/UCGx_fSVbzD-EPBaYekppyTA" class="social-link" title="YouTube"
-                    target="_blank"><i class="fab fa-youtube"></i></a>
-                <!-- <a href="https://www.reddit.com/r/AstroArenaOnline" class="social-link" title="Reddit"
-                    target="_blank"><i class="fab fa-reddit"></i></a> -->
-                <a href="https://discord.gg/cvMjCbMfKG" class="social-link" title="Discord" target="_blank"><i
-                        class="fab fa-discord"></i></a>
-                <script language="javascript"
-                    type="text/javascript">var a = "natasha"; document.write("<a class='social-link' title='Email' href='mailto:" + a + "@atlantisplay.com'><i class='fas fa-envelope'></i></a>");</script>
-            </div>
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <p><a href="about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
-                class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
-            <p>&copy; 2024 <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. All rights reserved.
+            <p>
+                {{site.data[site.active_lang].index.article_outro}}
+            </p>
+            <p>
+                {{site.data[site.active_lang].index.article_wishlist}}
             </p>
         </div>
-    </footer>
-</body>
+    </div>
+</section>
 
-</html>
+<section id="steam-section-bottom">
+    <div class="steam-container">
+        <iframe src="https://store.steampowered.com/widget/2997190/" frameborder="0" class="steam-card"></iframe>
+    </div>
+</section>

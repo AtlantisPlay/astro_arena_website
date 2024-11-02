@@ -1,6 +1,8 @@
 ---
 layout: text
 title: The Story
+permalink: story.html
+lang: en
 ---
 
 Technological progress, just as expected, did not delay the collapse of the Earth civilization, but brought it even closer.

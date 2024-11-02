@@ -1,6 +1,8 @@
 ---
 layout: text
 title: About Astro Arena
+permalink: about.html
+lang: en
 ---
 
 **Astro Arena** is an exhilarating multiplayer game set in a dynamic 2D space arena where players engage in team-based battles inspired by the classic Rock, Paper, Scissors mechanics. The game blends strategic combat, resource management, and powerful abilities, appealing to casual gamers who enjoy competitive, fast-paced environments.

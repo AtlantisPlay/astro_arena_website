@@ -4,9 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="{{site.active_lang}}">
     <meta name="description"
         content="Astro Arena - A fast-paced, team-based 2D space battleground where Rock, Paper, and Scissors clash.">
-    <title>Astro Arena - About</title>
+    <title>{{ page.title }}</title>
+    {% I18n_Headers %}
+    <base href="{{site.data[site.active_lang].index.base_url}}">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,16 +27,10 @@
 </head>
 
 <body>
-    <header class="header-article">
-        <div class="container">
-            <a href="/"><img src="images/logo.png" alt="Astro Arena" class="logo-image" /></a>
-        </div>
-    </header>
-
     {{ content }}
 
     <section id="social-media">
-        <h2>Follow Us!</h2>
+        <h2>{{site.data[site.active_lang].index.follow_us}}</h2>
         <div class="container">
             <div class="social-icons">
                 <a href="https://x.com/AstroArenaSpace" class="social-link" title="Twitter" target="_blank"><i
@@ -52,6 +49,8 @@
 
     <footer>
         <div class="container">
+            <p><a href="/about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="/story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
+                class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
             <p>&copy; 2024 <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. All rights reserved.
             </p>
         </div>
