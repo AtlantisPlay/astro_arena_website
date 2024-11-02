@@ -7,7 +7,11 @@
     <meta http-equiv="Content-Language" content="{{site.active_lang}}">
     <meta name="description" content="{{site.data[site.active_lang].index.meta_description}}">
     <title>{{ page.title }}</title>
-    {% I18n_Headers %}
+    <link rel="alternate" hreflang="{{site.default_lang}}" href="{{page.permalink}}" />
+{% for lang in site.languages %}
+    {% if lang == site.default_lang %}{% continue %}{% endif %}
+    <link rel="alternate" hreflang="{{lang}}" href="/{{lang}}/{{page.permalink}}" />
+{% endfor %}
     <base href="{{site.data[site.active_lang].index.base_url}}">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,16 +34,16 @@
         <div class="container">
             <ul>
                 {% for lang in site.languages %}
-                {% assign lang_name = site.data[lang].index.lang_name %}
-                {% if lang == site.active_lang %}
-                <li class="active"><a href=" {{ page.url }}">{{ lang_name }}</a></li>
-                {% else %}
-                {% if lang == site.default_lang %}
-                <li><a href=" {{ page.url }}">{{ lang_name }}</a></li>
-                {% else %}
-                <li><a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a></li>
-                {% endif %}
-                {% endif %}
+                    {% assign lang_name = site.data[lang].index.lang_name %}
+                    {% if lang == site.active_lang %}
+                        <li class="active"><a href=" {{ page.url }}">{{ lang_name }}</a></li>
+                    {% else %}
+                        {% if lang == site.default_lang %}
+                            <li><a href=" {{ page.url }}">{{ lang_name }}</a></li>
+                        {% else %}
+                            <li><a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a></li>
+                        {% endif %}
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>
