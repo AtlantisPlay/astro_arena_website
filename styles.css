@@ -325,6 +325,10 @@ footer i {
         width: 90%;
     }
 
+    .languages .dropdown {
+        text-align: left;
+    }
+
     header {
         height: auto;
         padding: 10px 0;
