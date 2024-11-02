@@ -177,6 +177,10 @@ section {
     margin-bottom: 30px;
 }
 
+.full-article {
+    padding: 0;
+}
+
 #article {
     padding: 40px 0;
     margin-bottom: 40px;
@@ -221,7 +225,7 @@ section {
 }
 
 .header-article {
-    height: 250px;
+    max-height: 250px;
 }
 
 .header-article .logo-image {
@@ -301,7 +305,7 @@ footer i {
 
     header {
         height: auto;
-        padding: 50px 0;
+        padding: 10px 0;
     }
 
     .logo-image {
