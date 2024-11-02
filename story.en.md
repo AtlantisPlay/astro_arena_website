@@ -1,32 +1,32 @@
 ---
 layout: text
-title: The Story
+title: Історія
 permalink: story.html
-lang: en
+lang: uk
 ---
 
-Technological progress, just as expected, did not delay the collapse of the Earth civilization, but brought it even closer.
+Технологічний прогрес, як і очікувалося, не відстрочив крах земної цивілізації, а наблизив його ще більше.
 
-From the Old Earth, overpopulated and dying, five Arks took off to different Earth-type planets. Each of them was carrying 500 million colonists and about a billion intelligent robot servants.
+Зі Старої Землі, перенаселеної та вмираючої, злетіли п'ять Ковчегів до різних планет земного типу. Кожен з них ніс 500 мільйонів колоністів і близько мільярда розумних роботів-слуг.
 
-Four Arks disappeared in the darkness of space. The fifth one safely reached its destination and successfully landed on a planet suitable for colonization. Thus, humans found a new home.
+Чотири Ковчеги зникли в темряві космосу. П'ятий благополучно досяг місця призначення і успішно приземлився на планеті, придатній для колонізації. Таким чином, людство знайшло новий дім.
 
-Then a problem revealed itself. It turned out that over the years of the sub-light travel, the Ark's databases were damaged, or perhaps they were filled in a hurry.
+Тоді виявилася проблема. Виявилося, що за роки субсвітлової подорожі бази даних Ковчега були пошкоджені, або, можливо, їх заповнювали поспіхом.
 
-The AI of the Fifth Ark retained all knowledge of science and technology, but lost almost the entire array of data about the humanities and culture. Only a huge library of chivalric romance and adventure novels was somehow preserved in the database.
+Штучний інтелект П'ятого Ковчега зберіг усі знання з науки і техніки, але втратив майже весь масив даних про гуманітарні науки та культуру. Тільки величезна бібліотека лицарських романів та пригодницьких новел якось збереглася в базі даних.
 
-Thus, generations later, humanity, having lost access to other cultural sources, gradually turned to technofeudalism.
+Таким чином, поколіннями пізніше людство, втративши доступ до інших культурних джерел, поступово перейшло до технофеодалізму.
 
-Quite unexpectedly, this turned out to be a good solution for survival in the new world. The descendants of the descendants of earthlings made great progress in robotics, but socially and culturally remained at the level of the Earth's 14th century. Society was divided into three guilds, each of which kept its secrets and formed a corporation impenetrable to outsiders.
+Досить несподівано це виявилося хорошим рішенням для виживання в новому світі. Нащадки землян зробили великий прогрес у робототехніці, але соціально та культурно залишилися на рівні 14-го століття Землі. Суспільство розділилося на три гільдії, кожна з яких зберігала свої секрети і формувала корпорацію, непроникну для сторонніх.
 
-The Artisan Union, whose symbol was a pair of Scissors, was involved in manufacturing and production.
+Спілка Ремісників, символом якої була пара Ножиць, займалася виробництвом і виготовленням.
 
-The Scriptor Conclave, whose banners bore the sign of Paper, traditionally specialized in information processing.
+Конклав Скрипторів, на прапорах якого був знак Паперу, традиційно спеціалізувався на обробці інформації.
 
-And the Guild of Belt Miners with the Rock on their shield mined mineral-rich asteroids.
+А Гільдія Гірників Поясу з Каменем на своєму щиті добувала багаті на мінерали астероїди.
 
-Inevitable feudal conflicts were usually fought with the help of high-tech robotic Knights, who cut through interplanetary space on their space steed-bikes. The Knights proved terrifyingly effective, as they were virtually indestructible and, in addition, controlled by human Operators located in safe fortresses.
+Неминучі феодальні конфлікти зазвичай вирішувалися за допомогою високотехнологічних роботів-Лицарів, які перетинали міжпланетний простір на своїх космічних конях-мотоциклах. Лицарі виявилися надзвичайно ефективними, оскільки були практично незнищенними і, до того ж, керувалися людськими Операторами, що знаходилися в безпечних фортецях.
 
-Once a year, the System declares a truce and a great mass tournament, La Grande Mêlée.
+Раз на рік Система оголошує перемир'я і великий масовий турнір, La Grande Mêlée.
 
-The best Operators of the three rival Guilds send their robot Knights, and yesterday's rivals unite into two teams and put aside their differences for a while to determine who is the worthiest, the most valiant and the most skilled in controlling their combat machines.
+Найкращі Оператори трьох конкуруючих Гільдій посилають своїх роботів-Лицарів, і вчорашні суперники об'єднуються в дві команди та відкладають свої розбіжності на час, щоб визначити, хто є найдостойнішим, найхоробріший і найвправніший у керуванні своїми бойовими машинами.
