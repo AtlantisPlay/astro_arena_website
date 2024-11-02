@@ -36,22 +36,25 @@ layout: compress
 <body>
     <section class="languages">
         <div class="container">
-            <ul>
+          <div class="dropdown">
+            <button id="language-button" class="dropbtn">
+              <i class="fa fa-globe"></i> <span>{{site.data[site.active_lang].index.lang_name}}</span>
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
                 {% for lang in site.languages %}
                     {% assign lang_name = site.data[lang].index.lang_name %}
-                    {% if lang == site.active_lang %}
-                        <li class="active"><a href=" {{ page.url }}">{{ lang_name }}</a></li>
+                    {% if lang == site.default_lang %}
+                        <a href=" {{ page.url }}">{{ lang_name }}</a>
                     {% else %}
-                        {% if lang == site.default_lang %}
-                            <li><a href=" {{ page.url }}">{{ lang_name }}</a></li>
-                        {% else %}
-                            <li><a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a></li>
-                        {% endif %}
+                        <a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
                     {% endif %}
                 {% endfor %}
-            </ul>
+            </div>
+          </div>
         </div>
     </section>
+    
     {{ content }}
 
     <section id="social-media">
