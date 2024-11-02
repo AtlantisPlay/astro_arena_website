@@ -17,6 +17,39 @@ body {
     margin: 0 auto;
 }
 
+.languages {
+    background-color: #1f1e1e4f;
+    padding: 0;
+}
+
+.languages ul {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    list-style: none;
+    padding: 5px 0;
+}
+
+.languages ul li {
+    margin: 0 10px;
+    font-size: 0.8rem;
+}
+
+.languages ul li a {
+    text-decoration: none;
+    color: #ded7d7;
+    font-weight: 100;
+}
+
+.languages ul li a:hover {
+    text-decoration: underline;
+}
+
+.languages ul li.active a {
+    font-weight: bold;
+    color: #fff;
+}
+
 header {
     height: 65vh;
     display: flex;
