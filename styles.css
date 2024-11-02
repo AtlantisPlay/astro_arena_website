@@ -325,8 +325,9 @@ footer i {
         width: 90%;
     }
 
-    .languages .dropdown {
-        text-align: left;
+    .languages .dropdown-content {
+        right: 5px;
+        background-color: #20252a;
     }
 
     header {
