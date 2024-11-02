@@ -26,6 +26,24 @@
 </head>
 
 <body>
+    <section class="languages">
+        <div class="container">
+            <ul>
+                {% for lang in site.languages %}
+                {% assign lang_name = site.data[lang].index.lang_name %}
+                {% if lang == site.active_lang %}
+                <li class="active"><a href=" {{ page.url }}">{{ lang_name }}</a></li>
+                {% else %}
+                {% if lang == site.default_lang %}
+                <li><a href=" {{ page.url }}">{{ lang_name }}</a></li>
+                {% else %}
+                <li><a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a></li>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </section>
     {{ content }}
 
     <section id="social-media">
@@ -50,20 +68,6 @@
         <div class="container">
             <p><a href="/about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="/story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="https://store.steampowered.com/app/2997190/Astro_Arena/" target="_blank"><i
                 class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
-            <p>
-{% for lang in site.languages %}
-{% assign lang_name = site.data[lang].index.lang_name %}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-{% if lang == site.active_lang %}{{ lang_name }}
-{% else %}
-{% if lang == site.default_lang %}
-<a href=" {{ page.url }}">{{ lang_name }}</a>
-{% else %}
-<a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-            </p>
             <p>&copy; {{ site.time | date: '%Y' }} <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. {{site.data[site.active_lang].index.rights_reserved}}
             </p>
         </div>
