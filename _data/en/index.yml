@@ -30,6 +30,8 @@ about: About Astro Arena
 story: The Story
 store_page: Steam Store Page
 rights_reserved: All Rights Reserved.
+page_404: Page Not Found
+page_404_text: The requested page could not be found.
 pages_list:
   - title: Astro Arena
     index: 0
@@ -85,3 +87,5 @@ pages_list:
       Once a year, the System declares a truce and a great mass tournament, La Grande Mêlée.
 
       The best Operators of the three rival Guilds send their robot Knights, and yesterday's rivals unite into two teams and put aside their differences for a while to determine who is the worthiest, the most valiant and the most skilled in controlling their combat machines.
+  - title: 404 Not Found
+    index: 3

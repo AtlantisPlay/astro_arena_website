@@ -1,7 +1,6 @@
 ---
-permalink: /404.html
 layout: default
-title: 404 Not Found
+page_index: 3
 ---
 
 <header class="header-article">
@@ -10,9 +9,14 @@ title: 404 Not Found
   </div>
 </header>
 
-<section id="article">
-  <h2>404 Not Found</h2>
-  <p style="text-align: center;">
-      The requested page could not be found.
+<section id="article" style="text-align: center;">
+  <h2>404</h2>
+  <h3 style="font-size: 1.3rem;">{{site.data[site.active_lang].index.page_404}}</h3>
+  <p><img src="images/gold_open.png" alt="404" style="width: 250px;" /></p>
+  <p>
+    &nbsp;
+  </p>
+  <p style="font-size: 1.2rem;">
+    {{site.data[site.active_lang].index.page_404_text}}
   </p>
 </section>
