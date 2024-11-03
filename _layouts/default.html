@@ -17,7 +17,11 @@ layout: compress
     {% if lang == site.default_lang %}{% continue %}{% endif %}
     <link rel="alternate" hreflang="{{lang}}" href="/{{lang}}/{{page.permalink}}" />
 {% endfor %}
-    <base href="{{site.data[site.active_lang].index.base_url}}">
+{% if site.active_lang == site.default_lang %}
+    <base href="/">
+    {% else %}
+    <base href="../">
+{% endif %}
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
