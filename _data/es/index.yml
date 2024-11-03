@@ -1,0 +1,88 @@
+lang_name: Español
+base_url: ../
+title: ¡El campo de batalla espacial 2D definitivo donde Piedra, Papel y Tijeras chocan!
+meta_description: Un campo de batalla espacial 2D rápido y en equipo donde Piedra, Papel y Tijeras chocan.
+screenshots: Capturas de pantalla
+gameplay: Jugabilidad
+features: Características
+welcome: ¡Bienvenido a Astro Arena!
+follow_us: ¡Síguenos!
+features_list:
+  - image: 13
+    title: Arena espacial 2D dinámica
+    description: Lucha en un vibrante y lleno de acción entorno espacial 2D donde los reflejos rápidos y las decisiones tácticas son clave para la victoria.
+  - image: 4
+    title: Poderosas habilidades
+    description: Gana puntos durante los partidos y desbloquea habilidades que cambian el juego, como invisibilidad y aumentos de velocidad, para obtener ventaja.
+  - image: 1
+    title: Multijugador en equipo
+    description: Únete a amigos o enfréntate a jugadores de todo el mundo en intensas y competitivas batallas por equipos.
+  - image: 7
+    title: Gestión de recursos
+    description: Recoge valiosos recursos esparcidos por la arena y úsalos estratégicamente para cambiar el curso de la batalla a tu favor.
+article_intro: Entra en el campo de batalla espacial 2D definitivo donde la estrategia, los reflejos rápidos y el trabajo en equipo se unen. Con poderosas habilidades para desbloquear y entornos dinámicos para explorar, cada partida es un nuevo desafío.
+article_text: Elige tu personaje—Piedra, Papel o Tijeras—y lucha en una arena intensa y de ritmo rápido.
+article_outro: Ya sea recolectando recursos, superando a tus oponentes o ayudando a tu equipo a dominar, Astro Arena ofrece acción sin parar.
+article_wishlist: ¡Añádelo a tu lista de deseos hoy para ser el primero en unirte a la batalla cuando se lance!
+rock: Piedra
+paper: Papel
+scissors: Tijeras
+about: Acerca de Astro Arena
+story: La Historia
+store_page: Página de Steam
+rights_reserved: Todos los derechos reservados.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: Acerca de Astro Arena
+    index: 1
+    text: |
+      **Astro Arena** es un emocionante juego multijugador ambientado en una dinámica arena espacial 2D donde los jugadores participan en batallas por equipos inspiradas en las clásicas mecánicas de Piedra, Papel y Tijeras. El juego combina combate estratégico, gestión de recursos y poderosas habilidades, atrayendo a jugadores casuales que disfrutan de entornos competitivos y de ritmo rápido.
+    
+      ## El Concepto
+    
+      En Astro Arena, los jugadores eligen entre tres tipos de personajes: Piedra, Papel o Tijeras. Cada tipo tiene sus propias fortalezas y debilidades, creando una emocionante mezcla de persecuciones, maniobras tácticas y escapadas hábiles. La dinámica clásica está presente: Piedra aplasta Tijeras, Tijeras cortan Papel y Papel cubre Piedra. Combinado con combates de arena de ritmo rápido, esto conduce a un juego intenso donde los reflejos rápidos y el pensamiento estratégico son clave.
+    
+      ## Mecánicas del Juego
+    
+      El modo principal es una batalla por equipos, donde los jugadores compiten para recoger recursos esparcidos por la arena o derrotar a oponentes para ganar ventaja. A medida que los equipos recolectan recursos, ganan puntos que pueden canjear por habilidades temporales como invisibilidad o aumento de velocidad. Estas habilidades pueden cambiar el curso de la batalla, permitiendo a los jugadores superar a sus oponentes o escapar del peligro.
+    
+      ## El Equipo de Desarrollo
+    
+      **AtlantisTeam Development Ltd**, bajo la marca de AtlantisPlay, fue fundada en 2019 por un equipo de profesionales del desarrollo de juegos. Con ubicaciones en Chipre, Israel y Ucrania, el equipo está compuesto por desarrolladores, artistas y diseñadores experimentados que están apasionados por crear experiencias de juego atractivas.
+    
+      Desde su fundación, la empresa ha desarrollado numerosos juegos para varios clientes, que van desde grandes puzzles de Match-3 y Merge hasta juegos de otros géneros. Crear su propio juego ha sido un sueño de los fundadores, y con el impulso de explorar nuevas tecnologías, la compañía conceptualizó Astro Arena a finales de 2022. Usando Godot Engine e inspirados en las mecánicas de Piedra, Papel y Tijeras, se embarcaron en este emocionante proyecto.
+    
+      A pesar de los desafíos planteados por la guerra en curso en Ucrania, donde el equipo de desarrollo tiene su sede, el equipo ha trabajado incansablemente para dar vida a Astro Arena.
+    
+      ## Información de Lanzamiento
+    
+      **Astro Arena** está programado para lanzarse a finales de 2024 en Steam para PC con Windows. El juego será gratuito, con compras dentro del juego disponibles para la personalización de personajes y habilidades exclusivas. Los jugadores pueden añadir el juego a su lista de deseos en Steam para mantenerse informados sobre las últimas actualizaciones y anuncios.
+  - title: La Historia
+    index: 2
+    text: |
+      El progreso tecnológico, tal como se esperaba, no retrasó el colapso de la civilización terrestre, sino que lo acercó aún más.
+    
+      Desde la Vieja Tierra, superpoblada y moribunda, cinco Arcas partieron hacia diferentes planetas tipo Tierra. Cada una de ellas llevaba 500 millones de colonos y alrededor de mil millones de sirvientes robots inteligentes.
+    
+      Cuatro Arcas desaparecieron en la oscuridad del espacio. La quinta llegó con seguridad a su destino y aterrizó exitosamente en un planeta apto para la colonización. Así, los humanos encontraron un nuevo hogar.
+    
+      Entonces surgió un problema. Resultó que, a lo largo de los años de viaje a velocidad subluz, las bases de datos del Arca se dañaron, o quizás se llenaron con prisa.
+    
+      La IA de la Quinta Arca retuvo todo el conocimiento de ciencia y tecnología, pero perdió casi todo el conjunto de datos sobre humanidades y cultura. Solo se conservó en la base de datos una enorme biblioteca de novelas de caballería y aventuras.
+    
+      Así, generaciones después, la humanidad, al perder acceso a otras fuentes culturales, gradualmente se inclinó hacia el tecno-feudalismo.
+    
+      Bastante inesperadamente, esto resultó ser una buena solución para la supervivencia en el nuevo mundo. Los descendientes de los terrícolas hicieron grandes avances en robótica, pero social y culturalmente permanecieron en el nivel del siglo XIV de la Tierra. La sociedad se dividió en tres gremios, cada uno de los cuales guardaba sus secretos y formaba una corporación impenetrable para los forasteros.
+    
+      La Unión de Artesanos, cuyo símbolo era unas Tijeras, se dedicaba a la fabricación y producción.
+    
+      El Cónclave de Escribas, cuyos estandartes llevaban el signo del Papel, tradicionalmente se especializaba en el procesamiento de información.
+    
+      Y el Gremio de Mineros del Cinturón, con la Piedra en su escudo, extraía asteroides ricos en minerales.
+    
+      Los inevitables conflictos feudales se libraban generalmente con la ayuda de Caballeros robóticos de alta tecnología, que atravesaban el espacio interplanetario en sus corceles espaciales. Los Caballeros resultaron ser terriblemente efectivos, ya que eran prácticamente indestructibles y, además, controlados por Operadores humanos ubicados en fortalezas seguras.
+    
+      Una vez al año, el Sistema declara una tregua y un gran torneo masivo, La Grande Mêlée.
+    
+      Los mejores Operadores de los tres gremios rivales envían a sus Caballeros robóticos, y los rivales de ayer se unen en dos equipos y dejan de lado sus diferencias por un tiempo para determinar quién es el más digno, el más valiente y el más hábil en el control de sus máquinas de combate.
