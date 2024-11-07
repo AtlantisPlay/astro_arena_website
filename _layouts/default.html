@@ -12,7 +12,7 @@ layout: compress
     <meta name="description" content="{{site.data[site.active_lang].index.meta_description}}">
     {% assign data_page = site.data[site.active_lang].index.pages_list | where:"index", page.page_index  | first %}
     <title>{{ data_page["title"] }}</title>
-    <link rel="alternate" hreflang="{{site.default_lang}}" href="{{page.permalink}}" />
+    <link rel="alternate" hreflang="{{ site.default_lang }}" href="{{ page.permalink | default: ' /' }}" />
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}{% continue %}{% endif %}
     <link rel="alternate" hreflang="{{lang}}" href="/{{lang}}/{{page.permalink}}" />
