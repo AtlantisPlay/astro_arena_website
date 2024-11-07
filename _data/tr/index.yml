@@ -1,0 +1,91 @@
+lang_name: Türkçe
+title: Taş, Kağıt ve Makas'ın çarpıştığı nihai uzay savaş alanı!
+meta_description: Taş, Kağıt ve Makas'ın çarpıştığı hızlı tempolu, takım tabanlı 2D uzay savaş alanı.
+screenshots: Ekran Görüntüleri
+gameplay: Oynanış
+features: Özellikler
+welcome: Astro Arena'ya hoş geldiniz!
+follow_us: Bizi takip edin!
+features_list:
+  - image: 13
+    title: Dinamik Uzay Arenası
+    description: Hızlı refleksler ve taktik kararların zaferin anahtarı olduğu canlı, aksiyon dolu bir uzay ortamında savaşın.
+  - image: 4
+    title: Güçlü Yetenekler
+    description: Maçlar sırasında puan kazan ve görünmezlik veya hız artışı gibi oyunu değiştiren yeteneklerin kilidini açarak avantaj sağla.
+  - image: 1
+    title: Takım Tabanlı Çok Oyunculu
+    description: Arkadaşlarınla güçlerini birleştir ya da dünya çapındaki oyunculara karşı yoğun, rekabetçi takım savaşlarına katıl.
+  - image: 7
+    title: Kaynak Yönetimi
+    description: Arena boyunca dağılmış değerli kaynakları topla ve bunları stratejik olarak kullanarak savaşın gidişatını lehine çevir.
+article_intro: Stratejinin, hızlı reflekslerin ve takım çalışmasının bir araya geldiği nihai uzay savaş alanına adım at. Kilidi açılacak güçlü yetenekler ve keşfedilecek dinamik ortamlarla her maç yeni bir meydan okumadır.
+article_text: Karakterini seç—Taş, Kağıt veya Makas—ve yoğun, hızlı tempolu bir arenada savaş.
+article_outro: İster kaynak topluyor, ister rakiplerini alt ediyor ya da takımının hakimiyetine yardımcı oluyor ol, Astro Arena durmaksızın aksiyon sunar.
+article_wishlist: Bugün dilek listene ekle, çıktığında ilk katılanlardan biri ol!
+rock: Taş
+paper: Kağıt
+scissors: Makas
+about: Astro Arena Hakkında
+story: Hikâye
+store_page: Steam Mağaza Sayfası
+rights_reserved: Tüm Hakları Saklıdır.
+page_404: Sayfa Bulunamadı
+page_404_text: İstenen sayfa bulunamadı.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: Astro Arena Hakkında
+    index: 1
+    text: |
+      **Astro Arena**, oyuncuların klasik Taş, Kağıt, Makas mekaniğinden esinlenen takım tabanlı savaşlara katıldığı dinamik bir 2D uzay arenasında geçen heyecan verici bir çok oyunculu oyundur. Oyun, stratejik savaşı, kaynak yönetimini ve güçlü yetenekleri birleştirerek rekabetçi, hızlı tempolu ortamları seven oyunculara hitap eder.
+
+      ## Konsept
+
+      Astro Arena'da oyuncular üç karakter türünden birini seçer: Taş, Kağıt veya Makas. Her birinin kendi güçlü ve zayıf yönleri vardır, bu da kovalamaca, taktik manevralar ve ustaca kaçışların heyecan verici bir karışımını yaratır. Klasik dinamik mevcuttur: Taş Makas'ı ezer, Makas Kağıt'ı keser ve Kağıt Taş'ı sarar. Hızlı tempolu arena savaşlarıyla birleştiğinde, hızlı reflekslerin ve stratejik düşüncenin anahtar olduğu yoğun bir oyun deneyimi sunar.
+
+      ## Oyun Mekanikleri
+
+      Ana mod takım tabanlı bir savaştır; oyuncular arena boyunca dağılmış kaynakları toplamak veya rakiplerini yenmek için yarışır. Takımlar kaynak topladıkça, görünmezlik veya hız artışı gibi geçici yeteneklerle takas edilebilen puanlar kazanırlar. Bu yetenekler savaşın gidişatını değiştirebilir, oyuncuların rakiplerini alt etmelerine veya tehlikeden kaçmalarına olanak tanır.
+
+      ## Geliştirme Ekibi
+
+      **AtlantisTeam Development Ltd**, AtlantisPlay markası altında, 2019 yılında oyun geliştirme profesyonellerinden oluşan bir ekip tarafından kuruldu. Kıbrıs, İsrail ve Ukrayna'da konumlanan ekip, sürükleyici oyun deneyimleri yaratmaya tutkulu deneyimli geliştiriciler, sanatçılar ve tasarımcılardan oluşmaktadır.
+
+      Kuruluşundan bu yana, şirket büyük Match-3 ve Merge bulmacalardan diğer türlerdeki oyunlara kadar çeşitli müşteriler için sayısız oyun geliştirdi. Kendi oyunlarını yaratmak kurucuların hayaliydi. Yeni teknolojileri keşfetme arzusu ile şirket, 2022'nin sonunda Astro Arena'yı konseptleştirdi. Godot Engine'i kullanarak ve Taş, Kağıt, Makas mekaniğinden esinlenerek bu heyecan verici projeye başladılar.
+
+      Ukrayna'da devam eden savaşın getirdiği zorluklara rağmen, geliştirme ekibi Astro Arena'yı hayata geçirmek için yorulmadan çalıştı.
+
+      ## Çıkış Bilgileri
+
+      **Astro Arena**, 2024'ün sonlarında Windows PC için Steam'de yayınlanması planlanıyor. Oyun ücretsiz oynanabilecek ve karakter özelleştirmeleri ile özel yetenekler için oyun içi satın alımlar sunacak. Oyuncular, en son güncellemeler ve duyurular hakkında bilgi almak için oyunu Steam'de dilek listelerine ekleyebilirler.
+  - title: Hikâye
+    index: 2
+    text: |
+      Beklendiği gibi, teknolojik ilerleme Dünya medeniyetinin çöküşünü geciktirmedi, aksine daha da yaklaştırdı.
+
+      Aşırı kalabalık ve ölmekte olan Eski Dünya'dan, beş Ark farklı Dünya benzeri gezegenlere doğru yola çıktı. Her biri 500 milyon kolonist ve yaklaşık bir milyar akıllı robot hizmetkâr taşıyordu.
+
+      Dört Ark, uzayın karanlığında kayboldu. Beşinci Ark, hedefine güvenle ulaştı ve kolonizasyon için uygun bir gezegene başarılı bir iniş yaptı. Böylece insanlık yeni bir yuva buldu.
+
+      Ancak bir sorun ortaya çıktı. Yıllar süren ışık altı hızdaki seyahat sırasında, Ark'ın veritabanlarının zarar gördüğü veya belki de aceleyle doldurulduğu anlaşıldı.
+
+      Beşinci Ark'ın AI'sı tüm bilim ve teknoloji bilgisini korudu, ancak beşerî bilimler ve kültür hakkındaki veri setinin neredeyse tamamını kaybetti. Garip bir şekilde, devasa bir şövalyelik romanları ve macera hikâyeleri kütüphanesi veritabanında korunmuştu.
+
+      Böylece, nesiller sonra, başka kültürel kaynaklara erişimi olmayan insanlık yavaş yavaş tekno-feodalizme yöneldi.
+
+      Beklenmedik bir şekilde, bu yeni dünyada hayatta kalmak için iyi bir çözüm oldu. Dünya insanlarının torunları robotikte büyük ilerlemeler kaydetti, ancak sosyal ve kültürel olarak Dünya'nın 14. yüzyıl seviyesinde kaldılar. Toplum, her biri kendi sırlarını saklayan ve yabancılara karşı aşılmaz bir organizasyon oluşturan üç loncaya bölündü.
+
+      Sembolü Makas olan Zanaatkârlar Birliği, üretim ve imalatla uğraşıyordu.
+
+      Sancaklarında Kağıt sembolü olan Yazıcılar Konseyi, geleneksel olarak bilgi işlemeye odaklanmıştı.
+
+      Ve kalkanlarında Taş olan Kuşak Madencileri Loncası, mineral zengini asteroitleri çıkarıyordu.
+
+      Kaçınılmaz feodal çatışmalar genellikle yüksek teknoloji ürünü robotik Şövalyelerin yardımıyla çözüldü; onlar uzay atlarına binerek gezegenler arası uzayı kesip geçiyorlardı. Şövalyeler son derece etkiliydi, çünkü neredeyse yok edilemezlerdi ve güvenli kalelerdeki insan Operatörler tarafından kontrol ediliyorlardı.
+
+      Yılda bir kez, Sistem bir ateşkes ve büyük bir toplu turnuva olan La Grande Mêlée'yi ilan eder.
+
+      Üç rakip loncanın en iyi Operatörleri robotik Şövalyelerini gönderir ve dünün rakipleri iki takımda birleşerek, farklılıklarını bir süreliğine bir kenara bırakır; böylece en değerli, en cesur ve savaş makinelerini kontrol etmede en yetenekli olanı belirlerler.
+  - title: 404 Bulunamadı
+    index: 3

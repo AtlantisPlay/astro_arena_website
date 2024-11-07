@@ -1,28 +1,28 @@
 lang_name: Français
-title: Le champ de bataille spatial 2D ultime où Pierre, Papier et Ciseaux s'affrontent !
+title: Le champ de bataille spatial ultime où Pierre, Papier et Ciseaux s'affrontent !
 meta_description: Un champ de bataille spatial 2D rapide et en équipe où Pierre, Papier et Ciseaux s'affrontent.
 screenshots: Captures d'écran
 gameplay: Gameplay
 features: Caractéristiques
-welcome: Bienvenue dans Astro Arena !
-follow_us: Suivez-nous !
+welcome: Bienvenue dans Astro Arena !
+follow_us: Suivez-nous !
 features_list:
   - image: 13
-    title: Arène spatiale 2D dynamique
-    description: Combattez dans un environnement spatial 2D vibrant et riche en action où les réflexes rapides et les décisions tactiques sont la clé de la victoire.
+    title: Arène spatiale dynamique
+    description: Combattez dans un environnement spatial vibrant et plein d'action où réflexes rapides et décisions tactiques mènent à la victoire.
   - image: 4
     title: Capacités puissantes
-    description: Gagnez des points pendant les matchs et débloquez des capacités qui changent le jeu comme l'invisibilité et les boosts de vitesse pour prendre l'avantage.
+    description: Gagnez des points pendant les matchs et débloquez des capacités comme l'invisibilité et des boosts de vitesse pour prendre l'avantage.
   - image: 1
     title: Multijoueur en équipe
-    description: Faites équipe avec des amis ou affrontez des joueurs du monde entier dans des batailles d'équipe intenses et compétitives.
+    description: Faites équipe avec des amis ou affrontez des joueurs du monde entier dans des batailles d'équipes intenses.
   - image: 7
     title: Gestion des ressources
-    description: Collectez des ressources précieuses dispersées dans l'arène et utilisez-les stratégiquement pour renverser le cours de la bataille en votre faveur.
-article_intro: Entrez dans le champ de bataille spatial 2D ultime où stratégie, réflexes rapides et travail d'équipe se combinent. Avec des capacités puissantes à débloquer et des environnements dynamiques à explorer, chaque match est un nouveau défi.
-article_text: Choisissez votre personnage—Pierre, Papier ou Ciseaux—et affrontez-vous dans une arène intense et rapide.
-article_outro: Que vous collectiez des ressources, déjouiez vos adversaires ou aidiez votre équipe à dominer, Astro Arena offre une action ininterrompue.
-article_wishlist: Ajoutez-le à votre liste de souhaits dès aujourd'hui pour être le premier à rejoindre la bataille lors de son lancement !
+    description: Collectez des ressources précieuses dans l'arène et utilisez-les stratégiquement pour changer le cours de la bataille.
+article_intro: Entrez dans le champ de bataille spatial ultime où stratégie, réflexes rapides et travail d'équipe se rencontrent. Avec des capacités puissantes à débloquer et des environnements dynamiques à explorer, chaque match est un nouveau défi.
+article_text: Choisissez votre personnage—Pierre, Papier ou Ciseaux—et combattez dans une arène intense et rapide.
+article_outro: Que vous collectiez des ressources, surpassiez vos adversaires ou aidiez votre équipe à dominer, Astro Arena offre une action ininterrompue.
+article_wishlist: Ajoutez-le à votre liste de souhaits dès aujourd'hui pour être parmi les premiers à rejoindre la bataille lors du lancement !
 rock: Pierre
 paper: Papier
 scissors: Ciseaux
@@ -30,58 +30,62 @@ about: À propos d'Astro Arena
 story: L'Histoire
 store_page: Page Steam
 rights_reserved: Tous droits réservés.
+page_404: Page non trouvée
+page_404_text: La page demandée est introuvable.
 pages_list:
   - title: Astro Arena
     index: 0
   - title: À propos d'Astro Arena
     index: 1
     text: |
-      **Astro Arena** est un jeu multijoueur passionnant situé dans une arène spatiale 2D dynamique où les joueurs participent à des batailles en équipe inspirées des mécaniques classiques de Pierre, Papier, Ciseaux. Le jeu combine combat stratégique, gestion des ressources et capacités puissantes, attirant les joueurs occasionnels qui apprécient les environnements compétitifs et rapides.
+      **Astro Arena** est un jeu multijoueur palpitant situé dans une arène spatiale 2D dynamique où les joueurs participent à des combats en équipe inspirés de la mécanique classique du Pierre, Papier, Ciseaux. Le jeu combine des combats stratégiques, la gestion des ressources et des capacités puissantes, attirant les joueurs qui apprécient les environnements compétitifs et rapides.
 
       ## Le Concept
 
-      Dans Astro Arena, les joueurs choisissent entre trois types de personnages : Pierre, Papier ou Ciseaux. Chaque type a ses propres forces et faiblesses, créant un mélange passionnant de poursuites, de manœuvres tactiques et d'évasions habiles. La dynamique classique est présente : Pierre écrase Ciseaux, Ciseaux coupent Papier, et Papier couvre Pierre. Combiné avec des combats d'arène rapides, cela conduit à un gameplay intense où les réflexes rapides et la pensée stratégique sont essentiels.
+      Dans Astro Arena, les joueurs choisissent parmi trois types de personnages : Pierre, Papier ou Ciseaux. Chacun a ses forces et faiblesses, créant un mélange passionnant de poursuites, de manœuvres tactiques et d'évasions habiles. La dynamique classique est présente : Pierre écrase Ciseaux, Ciseaux coupent Papier, et Papier recouvre Pierre. Combiné avec des combats d'arène rapides, cela mène à un gameplay intense où réflexes rapides et stratégie sont essentiels.
 
       ## Mécaniques de Jeu
 
-      Le mode principal est une bataille en équipe, où les joueurs rivalisent pour collecter des ressources dispersées dans l'arène ou vaincre des adversaires pour prendre l'avantage. Au fur et à mesure que les équipes collectent des ressources, elles gagnent des points qui peuvent être échangés contre des capacités temporaires comme l'invisibilité ou une vitesse accrue. Ces capacités peuvent renverser le cours de la bataille, permettant aux joueurs de déjouer leurs adversaires ou d'échapper au danger.
+      Le mode principal est un combat en équipe où les joueurs s'affrontent pour collecter des ressources dispersées dans l'arène ou vaincre des adversaires pour prendre l'avantage. En collectant des ressources, les équipes gagnent des points qu'elles peuvent échanger contre des capacités temporaires comme l'invisibilité ou une vitesse accrue. Ces capacités peuvent changer le cours de la bataille, permettant aux joueurs de surpasser leurs adversaires ou d'échapper au danger.
 
       ## L'Équipe de Développement
 
-      **AtlantisTeam Development Ltd**, sous la marque AtlantisPlay, a été fondée en 2019 par une équipe de professionnels du développement de jeux. Basée à Chypre, en Israël et en Ukraine, l'équipe est composée de développeurs, d'artistes et de designers expérimentés passionnés par la création d'expériences de jeu captivantes.
+      **AtlantisTeam Development Ltd**, sous la marque AtlantisPlay, a été fondée en 2019 par une équipe de professionnels passionnés du développement de jeux. Basée à Chypre, en Israël et en Ukraine, l'équipe est composée de développeurs, artistes et designers expérimentés dédiés à la création d'expériences de jeu captivantes.
 
-      Depuis sa création, la société a développé de nombreux jeux pour divers clients, allant de puzzles Match-3 et Merge à grande échelle à des jeux d'autres genres. Créer leur propre jeu a été un rêve pour les fondateurs, et avec l'envie d'explorer de nouvelles technologies, la société a conceptualisé Astro Arena fin 2022. En utilisant le moteur Godot et inspirés par les mécaniques de Pierre, Papier, Ciseaux, ils se sont lancés dans ce projet passionnant.
+      Depuis sa création, la société a développé de nombreux jeux pour divers clients, allant de grands puzzles Match-3 et Merge à des jeux d'autres genres. Créer leur propre jeu était un rêve pour les fondateurs. Désireux d'explorer de nouvelles technologies, ils ont conceptualisé Astro Arena fin 2022. En utilisant le moteur Godot et inspirés par la mécanique du Pierre, Papier, Ciseaux, ils ont entrepris ce projet excitant.
 
-      Malgré les défis posés par la guerre en cours en Ukraine, où l'équipe de développement est basée, l'équipe a travaillé sans relâche pour donner vie à Astro Arena.
+      Malgré les défis posés par la guerre en cours en Ukraine, où est basée l'équipe de développement, ils ont travaillé sans relâche pour donner vie à Astro Arena.
 
       ## Informations sur la Sortie
 
-      **Astro Arena** est prévu pour une sortie fin 2024 sur Steam pour PC Windows. Le jeu sera gratuit, avec des achats intégrés disponibles pour la personnalisation des personnages et des capacités exclusives. Les joueurs peuvent ajouter le jeu à leur liste de souhaits sur Steam pour rester informés des dernières mises à jour et annonces.
+      **Astro Arena** est prévu pour une sortie fin 2024 sur Steam pour Windows PC. Le jeu sera gratuit, avec des achats intégrés pour la personnalisation des personnages et des capacités exclusives. Les joueurs peuvent ajouter le jeu à leur liste de souhaits sur Steam pour rester informés des dernières mises à jour et annonces.
   - title: L'Histoire
     index: 2
     text: |
-      Le progrès technologique, comme prévu, n'a pas retardé l'effondrement de la civilisation terrestre, mais l'a rapproché encore plus.
+      Le progrès technologique, comme on pouvait s'y attendre, n'a pas retardé l'effondrement de la civilisation terrestre, mais l'a plutôt accéléré.
 
-      De la Vieille Terre, surpeuplée et mourante, cinq Arches sont parties vers différentes planètes de type terrestre. Chacune d'elles transportait 500 millions de colons et environ un milliard de robots serviteurs intelligents.
+      De la Vieille Terre, surpeuplée et mourante, cinq Arches ont été lancées vers différentes planètes habitables. Chacune transportait 500 millions de colons et environ un milliard de robots serviteurs intelligents.
 
-      Quatre Arches ont disparu dans les ténèbres de l'espace. La cinquième a atteint sa destination en toute sécurité et a atterri avec succès sur une planète propice à la colonisation. Ainsi, les humains ont trouvé un nouveau foyer.
+      Quatre Arches ont disparu dans l'immensité de l'espace. La cinquième a atteint sa destination en toute sécurité et a atterri avec succès sur une planète adaptée à la colonisation. Ainsi, l'humanité a trouvé un nouveau foyer.
 
-      Puis un problème est apparu. Il s'est avéré qu'au cours des années de voyage à vitesse subluminique, les bases de données de l'Arche avaient été endommagées, ou peut-être remplies à la hâte.
+      Cependant, un problème est survenu. Il s'est avéré qu'au cours des années de voyage à vitesse subluminique, les bases de données de l'Arche ont été endommagées, ou peut-être remplies à la hâte.
 
-      L'IA de la Cinquième Arche a conservé toutes les connaissances scientifiques et technologiques, mais a perdu presque tous les données sur les sciences humaines et la culture. Seule une énorme bibliothèque de romans de chevalerie et d'aventures a été conservée dans la base de données.
+      L'IA de la Cinquième Arche a conservé toutes les connaissances scientifiques et technologiques, mais a perdu presque toutes les données sur les sciences humaines et la culture. Seule une immense bibliothèque de romans de chevalerie et d'aventure a été préservée.
 
-      Ainsi, des générations plus tard, l'humanité, ayant perdu l'accès à d'autres sources culturelles, s'est progressivement tournée vers le technoféodalisme.
+      Ainsi, des générations plus tard, sans accès à d'autres sources culturelles, l'humanité s'est progressivement tournée vers le technoféodalisme.
 
-      Assez étonnamment, cela s'est avéré être une bonne solution pour survivre dans le nouveau monde. Les descendants des terriens ont fait de grands progrès en robotique, mais socialement et culturellement sont restés au niveau du XIVe siècle terrestre. La société était divisée en trois guildes, chacune gardant ses secrets et formant une corporation impénétrable pour les étrangers.
+      Assez étonnamment, cela s'est avéré être une bonne solution pour survivre dans ce nouveau monde. Les descendants des Terriens ont fait de grands progrès en robotique, mais sont restés socialement et culturellement au niveau du XIVᵉ siècle. La société s'est divisée en trois guildes, chacune gardant ses secrets et formant une corporation impénétrable aux étrangers.
 
-      L'Union des Artisans, dont le symbole était une paire de Ciseaux, était impliquée dans la fabrication et la production.
+      L'Union des Artisans, dont le symbole était une paire de Ciseaux, s'occupait de fabrication et de production.
 
-      Le Conclave des Scribes, dont les bannières portaient le signe du Papier, était traditionnellement spécialisé dans le traitement de l'information.
+      Le Conclave des Scribes, arborant le signe du Papier sur leurs bannières, était spécialisé dans le traitement de l'information.
 
       Et la Guilde des Mineurs de la Ceinture, avec la Pierre sur leur bouclier, exploitait des astéroïdes riches en minéraux.
 
-      Les conflits féodaux inévitables étaient généralement menés à l'aide de Chevaliers robotiques de haute technologie, qui traversaient l'espace interplanétaire sur leurs destriers spatiaux. Les Chevaliers se sont avérés terriblement efficaces, car ils étaient pratiquement indestructibles et contrôlés par des Opérateurs humains situés dans des forteresses sûres.
+      Les inévitables conflits féodaux étaient généralement résolus avec l'aide de Chevaliers robotiques de haute technologie, traversant l'espace interplanétaire sur leurs montures spatiales. Les Chevaliers étaient terriblement efficaces, pratiquement indestructibles et contrôlés par des Opérateurs humains depuis des forteresses sécurisées.
 
-      Une fois par an, le Système déclare une trêve et un grand tournoi de mêlée, La Grande Mêlée.
+      Une fois par an, le Système déclare une trêve et organise un grand tournoi de masse, La Grande Mêlée.
 
-      Les meilleurs Opérateurs des trois guildes rivales envoient leurs Chevaliers robotiques, et les rivaux d'hier s'unissent en deux équipes et mettent de côté leurs différences pendant un moment pour déterminer qui est le plus digne, le plus vaillant et le plus habile à contrôler leurs machines de combat.
+      Les meilleurs Opérateurs des trois guildes rivales envoient leurs Chevaliers robotiques. Les anciens rivaux s'unissent en deux équipes, mettant de côté leurs différends pour déterminer qui est le plus digne, le plus vaillant et le plus habile à contrôler leurs machines de combat.
+  - title: 404 Non trouvé
+    index: 3

@@ -1,5 +1,5 @@
 lang_name: English
-title: The ultimate 2D space battleground where Rock, Paper, and Scissors clash!
+title: The ultimate space battleground where Rock, Paper, and Scissors clash!
 meta_description: A fast-paced, team-based 2D space battlefield where Rock, Paper, and Scissors clash.
 screenshots: Screenshots
 gameplay: Gameplay
@@ -8,8 +8,8 @@ welcome: Welcome to Astro Arena!
 follow_us: Follow Us!
 features_list:
   - image: 13
-    title: Dynamic 2D Space Arena
-    description: Battle in a vibrant, action-packed 2D space environment where quick reflexes and tactical decisions are key to victory.
+    title: Dynamic Space Arena
+    description: Battle in a vibrant, action-packed space environment where quick reflexes and tactical decisions are key to victory.
   - image: 4
     title: Powerful Abilities
     description: Earn points during matches and unlock game-changing abilities like invisibility and speed boosts to gain the upper hand.
@@ -19,7 +19,7 @@ features_list:
   - image: 7
     title: Resource Management
     description: Collect valuable resources scattered across the arena and strategically use them to turn the tide of the battle in your favor.
-article_intro: Step into the ultimate 2D space battleground where strategy, quick reflexes, and teamwork come together. With powerful abilities to unlock and dynamic environments to explore, every match is a new challenge.
+article_intro: Step into the ultimate space battleground where strategy, quick reflexes, and teamwork come together. With powerful abilities to unlock and dynamic environments to explore, every match is a new challenge.
 article_text: Choose your character—Rock, Paper, or Scissors—and battle it out in an intense, fast-paced arena.
 article_outro: Whether you're collecting resources, outwitting your opponents, or helping your team dominate, Astro Arena offers non-stop action.
 article_wishlist: Wishlist today to be the first to join the battle when it launches!

@@ -1,88 +1,91 @@
 lang_name: Deutsch
-base_url: ../
-title: Der ultimative 2D-Weltraum-Schlachtplatz, wo Stein, Papier und Schere aufeinandertreffen!
-meta_description: Ein rasantes, teambasiertes 2D-Weltraumschlachtfeld, wo Stein, Papier und Schere aufeinandertreffen.
+title: Das ultimative Weltraum-Schlachtfeld, wo Stein, Papier und Schere aufeinandertreffen!
+meta_description: Ein rasantes, teamorientiertes 2D-Weltraum-Schlachtfeld, in dem Stein, Papier und Schere kollidieren.
 screenshots: Screenshots
 gameplay: Gameplay
 features: Merkmale
-welcome: Willkommen in der Astro Arena!
-follow_us: Folgen Sie uns!
+welcome: Willkommen bei Astro Arena!
+follow_us: Folge uns!
 features_list:
   - image: 13
-    title: Dynamische 2D-Weltraumarena
-    description: Kämpfe in einer lebendigen, actiongeladenen 2D-Weltraumumgebung, in der schnelle Reflexe und taktische Entscheidungen der Schlüssel zum Sieg sind.
+    title: Dynamische Weltraumarena
+    description: Kämpfe in einer lebendigen, actiongeladenen Weltraumumgebung, in der schnelle Reflexe und taktische Entscheidungen zum Sieg führen.
   - image: 4
     title: Mächtige Fähigkeiten
-    description: Verdiene Punkte während der Matches und schalte spielverändernde Fähigkeiten wie Unsichtbarkeit und Geschwindigkeitsschübe frei, um die Oberhand zu gewinnen.
+    description: Sammle während der Matches Punkte und schalte spielverändernde Fähigkeiten wie Unsichtbarkeit und Geschwindigkeitsboosts frei, um die Oberhand zu gewinnen.
   - image: 1
-    title: Teambasierter Multiplayer
-    description: Schließe dich mit Freunden zusammen oder tritt gegen Spieler weltweit in intensiven, kompetitiven Teamkämpfen an.
+    title: Team-basierter Multiplayer
+    description: Schließe dich mit Freunden zusammen oder tritt gegen Spieler weltweit in intensiven, wettbewerbsorientierten Teamkämpfen an.
   - image: 7
     title: Ressourcenmanagement
-    description: Sammle wertvolle Ressourcen, die über die Arena verteilt sind, und setze sie strategisch ein, um das Blatt zu deinen Gunsten zu wenden.
-article_intro: Betritt das ultimative 2D-Weltraum-Schlachtfeld, wo Strategie, schnelle Reflexe und Teamarbeit zusammenkommen. Mit mächtigen Fähigkeiten zum Freischalten und dynamischen Umgebungen zum Erkunden ist jedes Match eine neue Herausforderung.
-article_text: Wähle deinen Charakter – Stein, Papier oder Schere – und kämpfe in einer intensiven, schnellen Arena.
-article_outro: Ob du Ressourcen sammelst, deine Gegner überlistest oder deinem Team zum Sieg verhilfst, Astro Arena bietet actiongeladene Nonstop-Unterhaltung.
-article_wishlist: Füge es noch heute deiner Wunschliste hinzu, um als Erster in die Schlacht einzusteigen, wenn es startet!
+    description: Sammle wertvolle Ressourcen in der Arena und nutze sie strategisch, um das Blatt zu deinen Gunsten zu wenden.
+article_intro: Betritt das ultimative Weltraum-Schlachtfeld, wo Strategie, schnelle Reflexe und Teamarbeit aufeinandertreffen. Mit mächtigen Fähigkeiten zum Freischalten und dynamischen Umgebungen zum Erkunden ist jedes Match eine neue Herausforderung.
+article_text: Wähle deinen Charakter—Stein, Papier oder Schere—und kämpfe in einer intensiven, rasanten Arena.
+article_outro: Ob du Ressourcen sammelst, deine Gegner austrickst oder deinem Team zum Sieg verhilfst, Astro Arena bietet nonstop Action.
+article_wishlist: Setze es noch heute auf deine Wunschliste, um als Erster dabei zu sein, wenn es startet!
 rock: Stein
 paper: Papier
 scissors: Schere
 about: Über Astro Arena
 story: Die Geschichte
-store_page: Steam-Shop-Seite
+store_page: Steam-Shopseite
 rights_reserved: Alle Rechte vorbehalten.
+page_404: Seite nicht gefunden
+page_404_text: Die angeforderte Seite konnte nicht gefunden werden.
 pages_list:
   - title: Astro Arena
     index: 0
   - title: Über Astro Arena
     index: 1
     text: |
-      **Astro Arena** ist ein aufregendes Multiplayer-Spiel, das in einer dynamischen 2D-Weltraumarena spielt, in der Spieler an teambasierten Kämpfen teilnehmen, inspiriert von der klassischen Stein, Papier, Schere-Mechanik. Das Spiel vereint strategische Kämpfe, Ressourcenmanagement und mächtige Fähigkeiten und spricht Casual Gamer an, die wettbewerbsorientierte, schnelle Umgebungen genießen.
+      **Astro Arena** ist ein aufregendes Multiplayer-Spiel in einer dynamischen 2D-Weltraumarena, in dem Spieler an teambasierten Kämpfen teilnehmen, inspiriert von der klassischen Stein, Papier, Schere-Mechanik. Das Spiel kombiniert strategische Kämpfe, Ressourcenmanagement und mächtige Fähigkeiten und spricht Gelegenheitsspieler an, die wettbewerbsorientierte, schnelle Umgebungen mögen.
 
       ## Das Konzept
 
-      In Astro Arena wählen die Spieler zwischen drei Charaktertypen: Stein, Papier oder Schere. Jeder Typ hat seine eigenen Stärken und Schwächen, was eine spannende Mischung aus Verfolgungsjagden, taktischen Manövern und geschickten Fluchten schafft. Die klassische Dynamik ist vorhanden: Stein zerschmettert Schere, Schere schneidet Papier, und Papier bedeckt Stein. In Kombination mit schnellen Arenakämpfen führt dies zu intensivem Gameplay, bei dem schnelle Reflexe und strategisches Denken entscheidend sind.
+      In Astro Arena wählen die Spieler zwischen drei Charaktertypen: Stein, Papier oder Schere. Jeder Typ hat seine eigenen Stärken und Schwächen und schafft eine spannende Mischung aus Verfolgungsjagden, taktischen Manövern und geschickten Fluchten. Die klassische Dynamik ist vorhanden: Stein zerschmettert Schere, Schere schneidet Papier und Papier bedeckt Stein. In Kombination mit schnellen Arenakämpfen führt dies zu intensivem Gameplay, bei dem schnelle Reflexe und strategisches Denken entscheidend sind.
 
       ## Spielmechanik
 
-      Der Kernmodus ist eine teambasierte Schlacht, in der Spieler darum konkurrieren, Ressourcen zu sammeln, die über die Arena verstreut sind, oder Gegner zu besiegen, um einen Vorteil zu erlangen. Wenn Teams Ressourcen sammeln, verdienen sie Punkte, die gegen temporäre Fähigkeiten wie Unsichtbarkeit oder erhöhte Geschwindigkeit eingetauscht werden können. Diese Fähigkeiten können das Blatt im Kampf wenden und den Spielern ermöglichen, ihre Gegner auszutricksen oder Gefahren zu entkommen.
+      Der Hauptmodus ist ein teambasierter Kampf, bei dem Spieler um das Sammeln von Ressourcen konkurrieren, die über die Arena verteilt sind, oder Gegner besiegen, um einen Vorteil zu erlangen. Während Teams Ressourcen sammeln, verdienen sie Punkte, die gegen temporäre Fähigkeiten wie Unsichtbarkeit oder erhöhte Geschwindigkeit eingetauscht werden können. Diese Fähigkeiten können den Verlauf des Kampfes ändern und es den Spielern ermöglichen, ihre Gegner auszutricksen oder Gefahren zu entkommen.
 
       ## Das Entwicklungsteam
 
-      **AtlantisTeam Development Ltd**, unter der Marke AtlantisPlay, wurde 2019 von einem Team von Spieleentwicklungsprofis gegründet. Mit Standorten in Zypern, Israel und der Ukraine besteht das Team aus erfahrenen Entwicklern, Künstlern und Designern, die leidenschaftlich daran interessiert sind, fesselnde Spielerlebnisse zu schaffen.
+      **AtlantisTeam Development Ltd**, unter der Marke AtlantisPlay, wurde 2019 von einem Team von Spieleentwicklungsprofis gegründet. Mit Standorten in Zypern, Israel und der Ukraine besteht das Team aus erfahrenen Entwicklern, Künstlern und Designern, die leidenschaftlich daran arbeiten, fesselnde Spielerlebnisse zu schaffen.
 
-      Seit seiner Gründung hat das Unternehmen zahlreiche Spiele für verschiedene Kunden entwickelt, von groß angelegten Match-3- und Merge-Puzzles bis hin zu Spielen anderer Genres. Die Entwicklung eines eigenen Spiels war ein Traum der Gründer, und mit dem Antrieb, neue Technologien zu erkunden, entwickelte das Unternehmen Ende 2022 das Konzept für Astro Arena. Mit der Godot Engine und inspiriert von der Stein, Papier, Schere-Mechanik begannen sie dieses spannende Projekt.
+      Seit seiner Gründung hat das Unternehmen zahlreiche Spiele für verschiedene Kunden entwickelt, von großen Match-3- und Merge-Puzzles bis hin zu Spielen anderer Genres. Die Erstellung eines eigenen Spiels war ein Traum der Gründer, und mit dem Wunsch, neue Technologien zu erkunden, konzipierte das Unternehmen Ende 2022 Astro Arena. Mit der Godot Engine und inspiriert von der Stein, Papier, Schere-Mechanik begannen sie dieses aufregende Projekt.
 
       Trotz der Herausforderungen durch den anhaltenden Krieg in der Ukraine, wo das Entwicklungsteam ansässig ist, hat das Team unermüdlich daran gearbeitet, Astro Arena zum Leben zu erwecken.
 
-      ## Veröffentlichungsinformationen
+      ## Release-Informationen
 
-      **Astro Arena** ist für eine Veröffentlichung Ende 2024 auf Steam für Windows-PC geplant. Das Spiel wird kostenlos spielbar sein, mit In-Game-Käufen für Charakteranpassungen und exklusive Fähigkeiten. Spieler können das Spiel auf Steam ihrer Wunschliste hinzufügen, um über die neuesten Updates und Ankündigungen informiert zu bleiben.
+      **Astro Arena** soll Ende 2024 auf Steam für Windows-PC erscheinen. Das Spiel wird kostenlos spielbar sein, mit In-Game-Käufen für Charakteranpassungen und exklusive Fähigkeiten. Spieler können das Spiel auf ihre Steam-Wunschliste setzen, um über die neuesten Updates und Ankündigungen informiert zu bleiben.
   - title: Die Geschichte
     index: 2
     text: |
-      Der technologische Fortschritt hat, wie erwartet, den Zusammenbruch der irdischen Zivilisation nicht verzögert, sondern ihn noch näher gebracht.
+      Technologischer Fortschritt hat, wie erwartet, nicht den Zusammenbruch der irdischen Zivilisation verzögert, sondern ihn sogar beschleunigt.
 
-      Von der Alten Erde, überbevölkert und sterbend, starteten fünf Archen zu verschiedenen erdähnlichen Planeten. Jede von ihnen trug 500 Millionen Kolonisten und etwa eine Milliarde intelligente Roboterdiener.
+      Von der überbevölkerten und sterbenden alten Erde starteten fünf Archen zu verschiedenen erdähnlichen Planeten. Jede trug 500 Millionen Kolonisten und etwa eine Milliarde intelligente Roboter-Diener.
 
-      Vier Archen verschwanden in der Dunkelheit des Weltraums. Die fünfte erreichte sicher ihr Ziel und landete erfolgreich auf einem zur Besiedlung geeigneten Planeten. So fanden die Menschen eine neue Heimat.
+      Vier Archen verschwanden in den Tiefen des Weltraums. Die fünfte erreichte sicher ihr Ziel und landete erfolgreich auf einem für die Kolonisation geeigneten Planeten. So fand die Menschheit ein neues Zuhause.
 
-      Dann zeigte sich ein Problem. Es stellte sich heraus, dass im Laufe der Jahre des unterlichtschnellen Reisens die Datenbanken der Arche beschädigt wurden oder vielleicht in Eile gefüllt worden waren.
+      Doch dann tauchte ein Problem auf. Es stellte sich heraus, dass die Datenbanken der Arche während der jahrelangen subluminalen Reise beschädigt wurden oder vielleicht in Eile gefüllt waren.
 
-      Die KI der fünften Arche behielt das gesamte Wissen über Wissenschaft und Technologie, verlor jedoch fast den gesamten Datenbestand über Geisteswissenschaften und Kultur. Nur eine riesige Bibliothek von Ritterromanen und Abenteuererzählungen wurde irgendwie in der Datenbank erhalten.
+      Die KI der fünften Arche behielt alles Wissen über Wissenschaft und Technologie, verlor aber fast alle Daten über Geisteswissenschaften und Kultur. Nur eine riesige Bibliothek von Ritterromanen und Abenteuergeschichten wurde irgendwie in der Datenbank erhalten.
 
-      So wandte sich die Menschheit Generationen später, nachdem sie den Zugang zu anderen kulturellen Quellen verloren hatte, allmählich dem Technofeudalismus zu.
+      So wandte sich die Menschheit Generationen später, ohne Zugang zu anderen kulturellen Quellen, allmählich dem Technofeudalismus zu.
 
-      Ganz unerwartet stellte sich dies als gute Lösung für das Überleben in der neuen Welt heraus. Die Nachkommen der Nachkommen der Erdlinge machten große Fortschritte in der Robotik, blieben jedoch sozial und kulturell auf dem Niveau des 14. Jahrhunderts der Erde. Die Gesellschaft war in drei Gilden geteilt, von denen jede ihre Geheimnisse bewahrte und eine für Außenstehende undurchdringliche Korporation bildete.
+      Unerwarteterweise erwies sich dies als gute Lösung für das Überleben in der neuen Welt. Die Nachfahren der Erdlinge machten große Fortschritte in der Robotik, blieben aber sozial und kulturell auf dem Niveau des 14. Jahrhunderts der Erde. Die Gesellschaft teilte sich in drei Gilden, von denen jede ihre Geheimnisse bewahrte und eine für Außenstehende undurchdringliche Gemeinschaft bildete.
 
-      Die Handwerkervereinigung, deren Symbol eine Schere war, war in der Herstellung und Produktion tätig.
+      Die Handwerkerunion, deren Symbol die Schere war, war in Herstellung und Produktion tätig.
 
-      Der Skriptorenkonklave, dessen Banner das Zeichen des Papiers trugen, spezialisierte sich traditionell auf die Informationsverarbeitung.
+      Das Scriptorium-Kollegium, dessen Banner das Zeichen des Papiers trugen, spezialisierte sich traditionell auf Informationsverarbeitung.
 
-      Und die Gilde der Gürtelminenarbeiter mit dem Stein auf ihrem Schild baute mineralreiche Asteroiden ab.
+      Und die Gilde der Gürtelbergleute mit dem Stein auf ihrem Schild baute mineralreiche Asteroiden ab.
 
-      Unvermeidliche feudale Konflikte wurden in der Regel mit Hilfe von hochmodernen Roboterrittern ausgetragen, die auf ihren Weltraumpferd-Bikes durch den interplanetaren Raum sausten. Die Ritter erwiesen sich als erschreckend effektiv, da sie praktisch unzerstörbar waren und zudem von menschlichen Operateuren in sicheren Festungen gesteuert wurden.
+      Unvermeidliche feudale Konflikte wurden meist mit Hilfe von Hightech-Roboter-Rittern ausgetragen, die auf ihren Weltraum-Pferden durch den interplanetaren Raum jagten. Die Ritter waren erschreckend effektiv, da sie praktisch unzerstörbar waren und zudem von menschlichen Operatoren in sicheren Festungen gesteuert wurden.
 
       Einmal im Jahr erklärt das System einen Waffenstillstand und ein großes Massenturnier, La Grande Mêlée.
 
-      Die besten Operateure der drei rivalisierenden Gilden schicken ihre Roboterritter, und die Rivalen von gestern vereinen sich in zwei Teams und legen ihre Differenzen beiseite, um zu bestimmen, wer der Würdigste, Tapferste und Geschickteste im Umgang mit ihren Kampfmaschinen ist.
+      Die besten Operatoren der drei rivalisierenden Gilden schicken ihre Roboter-Ritter, und die ehemaligen Rivalen vereinen sich in zwei Teams und legen ihre Differenzen beiseite, um herauszufinden, wer der Würdigste, Tapferste und Geschickteste im Umgang mit ihren Kampfmaschinen ist.
+  - title: 404 Nicht gefunden
+    index: 3

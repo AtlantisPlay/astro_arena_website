@@ -1,87 +1,91 @@
 lang_name: Português
-title: O campo de batalha espacial 2D definitivo onde Pedra, Papel e Tesoura colidem!
-meta_description: Um campo de batalha espacial 2D rápido e em equipe onde Pedra, Papel e Tesoura colidem.
-screenshots: Capturas de Tela
+title: O campo de batalha espacial definitivo onde Pedra, Papel e Tesoura se enfrentam!
+meta_description: Ação rápida em um campo de batalha espacial 2D baseado em equipes, onde Pedra, Papel e Tesoura colidem.
+screenshots: Capturas de tela
 gameplay: Jogabilidade
 features: Recursos
 welcome: Bem-vindo ao Astro Arena!
 follow_us: Siga-nos!
 features_list:
   - image: 13
-    title: Arena Espacial 2D Dinâmica
-    description: Lute em um ambiente espacial 2D vibrante e cheio de ação, onde reflexos rápidos e decisões táticas são a chave para a vitória.
+    title: Arena Espacial Dinâmica
+    description: Enfrente batalhas em um ambiente espacial vibrante e cheio de ação, onde reflexos rápidos e decisões táticas são a chave para a vitória.
   - image: 4
     title: Habilidades Poderosas
-    description: Ganhe pontos durante as partidas e desbloqueie habilidades que mudam o jogo, como invisibilidade e impulsos de velocidade, para obter vantagem.
+    description: Ganhe pontos durante as partidas e desbloqueie habilidades que mudam o jogo, como invisibilidade e aumentos de velocidade, para obter vantagem.
   - image: 1
-    title: Multijogador em Equipe
+    title: Multijogador Baseado em Equipes
     description: Una forças com amigos ou enfrente jogadores de todo o mundo em intensas batalhas competitivas de equipe.
   - image: 7
     title: Gerenciamento de Recursos
-    description: Colete valiosos recursos espalhados pela arena e use-os estrategicamente para mudar o curso da batalha a seu favor.
-article_intro: Entre no campo de batalha espacial 2D definitivo onde estratégia, reflexos rápidos e trabalho em equipe se unem. Com poderosas habilidades para desbloquear e ambientes dinâmicos para explorar, cada partida é um novo desafio.
+    description: Colete recursos valiosos espalhados pela arena e use-os estrategicamente para mudar o rumo da batalha a seu favor.
+article_intro: Adentre o campo de batalha espacial definitivo, onde estratégia, reflexos rápidos e trabalho em equipe se unem. Com poderosas habilidades para desbloquear e ambientes dinâmicos para explorar, cada partida é um novo desafio.
 article_text: Escolha seu personagem—Pedra, Papel ou Tesoura—e lute em uma arena intensa e rápida.
-article_outro: Seja coletando recursos, superando seus oponentes ou ajudando sua equipe a dominar, Astro Arena oferece ação ininterrupta.
+article_outro: Seja coletando recursos, superando seus oponentes ou ajudando sua equipe a dominar, Astro Arena oferece ação sem parar.
 article_wishlist: Adicione à sua lista de desejos hoje para ser o primeiro a entrar na batalha quando for lançado!
 rock: Pedra
 paper: Papel
 scissors: Tesoura
 about: Sobre o Astro Arena
 story: A História
-store_page: Página na Steam
-rights_reserved: Todos os Direitos Reservados.
+store_page: Página da Steam
+rights_reserved: Todos os direitos reservados.
+page_404: Página Não Encontrada
+page_404_text: A página solicitada não pôde ser encontrada.
 pages_list:
   - title: Astro Arena
     index: 0
   - title: Sobre o Astro Arena
     index: 1
     text: |
-      **Astro Arena** é um emocionante jogo multijogador ambientado em uma dinâmica arena espacial 2D onde os jogadores participam de batalhas em equipe inspiradas na clássica mecânica de Pedra, Papel e Tesoura. O jogo combina combate estratégico, gerenciamento de recursos e habilidades poderosas, atraindo jogadores casuais que gostam de ambientes competitivos e rápidos.
+      **Astro Arena** é um jogo multijogador emocionante ambientado em uma arena espacial 2D dinâmica, onde os jogadores participam de batalhas em equipe inspiradas na clássica mecânica de Pedra, Papel e Tesoura. O jogo combina combate estratégico, gerenciamento de recursos e habilidades poderosas, atraindo jogadores casuais que gostam de ambientes competitivos e acelerados.
 
       ## O Conceito
 
-      No Astro Arena, os jogadores escolhem entre três tipos de personagens: Pedra, Papel ou Tesoura. Cada tipo tem suas próprias forças e fraquezas, criando uma mistura emocionante de perseguições, manobras táticas e fugas habilidosas. A dinâmica clássica está presente: Pedra esmaga Tesoura, Tesoura corta Papel, e Papel cobre Pedra. Combinado com combates de arena rápidos, isso leva a uma jogabilidade intensa onde reflexos rápidos e pensamento estratégico são fundamentais.
+      No Astro Arena, os jogadores escolhem entre três tipos de personagens: Pedra, Papel ou Tesoura. Cada tipo tem suas próprias forças e fraquezas, criando uma mistura emocionante de perseguições, manobras táticas e fugas habilidosas. A dinâmica clássica está presente: Pedra esmaga Tesoura, Tesoura corta Papel e Papel cobre Pedra. Combinado com combates rápidos na arena, isso leva a um gameplay intenso onde reflexos rápidos e pensamento estratégico são essenciais.
 
-      ## Mecânicas do Jogo
+      ## Mecânica do Jogo
 
-      O modo principal é uma batalha em equipe, onde os jogadores competem para coletar recursos espalhados pela arena ou derrotar oponentes para ganhar vantagem. À medida que as equipes coletam recursos, elas ganham pontos que podem ser trocados por habilidades temporárias como invisibilidade ou aumento de velocidade. Essas habilidades podem mudar o curso da batalha, permitindo que os jogadores superem seus adversários ou escapem do perigo.
+      O modo principal é uma batalha em equipe, onde os jogadores competem para coletar recursos espalhados pela arena ou derrotar oponentes para ganhar vantagem. À medida que as equipes coletam recursos, elas ganham pontos que podem ser trocados por habilidades temporárias como invisibilidade ou aumento de velocidade. Essas habilidades podem virar o jogo, permitindo que os jogadores superem seus oponentes ou escapem do perigo.
 
       ## A Equipe de Desenvolvimento
 
-      **AtlantisTeam Development Ltd**, sob a marca AtlantisPlay, foi fundada em 2019 por uma equipe de profissionais de desenvolvimento de jogos. Com sedes no Chipre, Israel e Ucrânia, a equipe é composta por desenvolvedores, artistas e designers experientes que são apaixonados por criar experiências de jogo envolventes.
+      A **AtlantisTeam Development Ltd**, sob a marca AtlantisPlay, foi fundada em 2019 por uma equipe de profissionais de desenvolvimento de jogos. Com sedes no Chipre, Israel e Ucrânia, a equipe é composta por desenvolvedores, artistas e designers experientes, apaixonados por criar experiências de jogo envolventes.
 
-      Desde a sua fundação, a empresa desenvolveu numerosos jogos para vários clientes, desde puzzles Match-3 e Merge em grande escala até jogos de outros gêneros. Criar seu próprio jogo tem sido um sonho dos fundadores, e com o impulso para explorar novas tecnologias, a empresa conceituou o Astro Arena no final de 2022. Usando a Godot Engine e inspirados na mecânica de Pedra, Papel e Tesoura, eles embarcaram neste projeto emocionante.
+      Desde sua fundação, a empresa desenvolveu numerosos jogos para diversos clientes, variando de grandes puzzles de Match-3 e Merge a jogos de outros gêneros. Criar seu próprio jogo tem sido um sonho dos fundadores, e com o impulso de explorar novas tecnologias, a empresa concebeu o Astro Arena no final de 2022. Usando o Godot Engine e inspirados na mecânica de Pedra, Papel e Tesoura, eles embarcaram nesse projeto emocionante.
 
-      Apesar dos desafios colocados pela guerra em curso na Ucrânia, onde a equipe de desenvolvimento está sediada, a equipe trabalhou incansavelmente para dar vida ao Astro Arena.
+      Apesar dos desafios impostos pela guerra em curso na Ucrânia, onde a equipe de desenvolvimento está baseada, a equipe trabalhou incansavelmente para dar vida ao Astro Arena.
 
       ## Informações de Lançamento
 
-      **Astro Arena** está programado para ser lançado no final de 2024 na Steam para PC com Windows. O jogo será gratuito para jogar, com compras dentro do jogo disponíveis para personalização de personagens e habilidades exclusivas. Os jogadores podem adicionar o jogo à sua lista de desejos na Steam para se manterem informados sobre as últimas atualizações e anúncios.
+      O **Astro Arena** está programado para ser lançado no final de 2024 na Steam para Windows PC. O jogo será gratuito para jogar, com compras dentro do jogo disponíveis para personalização de personagens e habilidades exclusivas. Os jogadores podem adicionar o jogo à sua lista de desejos na Steam para se manterem informados sobre as últimas atualizações e anúncios.
   - title: A História
     index: 2
     text: |
       O progresso tecnológico, como esperado, não atrasou o colapso da civilização terrestre, mas o aproximou ainda mais.
 
-      Da Velha Terra, superpovoada e moribunda, cinco Arcas partiram para diferentes planetas do tipo terrestre. Cada uma delas levava 500 milhões de colonos e cerca de um bilhão de robôs servos inteligentes.
+      Da Velha Terra, superpovoada e moribunda, cinco Arcas partiram para diferentes planetas semelhantes à Terra. Cada uma carregava 500 milhões de colonos e cerca de um bilhão de robôs servos inteligentes.
 
-      Quatro Arcas desapareceram na escuridão do espaço. A quinta alcançou seu destino com segurança e aterrissou com sucesso em um planeta adequado para colonização. Assim, os humanos encontraram um novo lar.
+      Quatro Arcas desapareceram na escuridão do espaço. A quinta chegou com segurança ao seu destino e aterrissou com sucesso em um planeta adequado para colonização. Assim, a humanidade encontrou um novo lar.
 
-      Então, um problema surgiu. Descobriu-se que, ao longo dos anos de viagem em velocidade subluz, os bancos de dados da Arca foram danificados, ou talvez preenchidos às pressas.
+      Então, um problema surgiu. Descobriu-se que, ao longo dos anos de viagem em velocidade abaixo da luz, os bancos de dados da Arca foram danificados, ou talvez tenham sido preenchidos às pressas.
 
-      A IA da Quinta Arca reteve todo o conhecimento de ciência e tecnologia, mas perdeu quase todo o conjunto de dados sobre humanidades e cultura. Apenas uma enorme biblioteca de romances de cavalaria e aventuras foi de alguma forma preservada no banco de dados.
+      A IA da Quinta Arca reteve todo o conhecimento de ciência e tecnologia, mas perdeu quase todos os dados sobre humanidades e cultura. Apenas uma enorme biblioteca de romances de cavalaria e aventuras foi de alguma forma preservada no banco de dados.
 
-      Assim, gerações depois, a humanidade, tendo perdido acesso a outras fontes culturais, gradualmente se voltou para o tecno-feudalismo.
+      Assim, gerações depois, a humanidade, tendo perdido acesso a outras fontes culturais, gradualmente voltou-se para o tecno-feudalismo.
 
-      Bastante inesperadamente, isso se mostrou uma boa solução para a sobrevivência no novo mundo. Os descendentes dos descendentes dos terráqueos fizeram grandes avanços em robótica, mas social e culturalmente permaneceram no nível do século XIV da Terra. A sociedade foi dividida em três guildas, cada uma mantendo seus segredos e formando uma corporação impenetrável para os forasteiros.
+      Inesperadamente, isso se mostrou uma boa solução para a sobrevivência no novo mundo. Os descendentes dos terráqueos fizeram grandes progressos em robótica, mas social e culturalmente permaneceram no nível do século XIV da Terra. A sociedade dividiu-se em três guildas, cada uma guardando seus segredos e formando uma corporação impenetrável para os de fora.
 
-      A União dos Artesãos, cujo símbolo era uma Tesoura, estava envolvida em fabricação e produção.
+      A União dos Artesãos, cujo símbolo era uma Tesoura, envolvia-se em fabricação e produção.
 
-      O Conclave dos Escritores, cujas bandeiras ostentavam o símbolo do Papel, tradicionalmente se especializava em processamento de informações.
+      O Conclave dos Escritores, cujas bandeiras ostentavam o símbolo do Papel, tradicionalmente especializou-se em processamento de informação.
 
       E a Guilda dos Mineiros do Cinturão, com a Pedra em seu escudo, minerava asteroides ricos em minerais.
 
-      Conflitos feudais inevitáveis eram geralmente travados com a ajuda de Cavaleiros robóticos de alta tecnologia, que atravessavam o espaço interplanetário em seus cavalos-espaço. Os Cavaleiros se mostraram terrivelmente eficazes, pois eram praticamente indestrutíveis e, além disso, controlados por Operadores humanos localizados em fortalezas seguras.
+      Os inevitáveis conflitos feudais eram geralmente travados com a ajuda de Cavaleiros robóticos de alta tecnologia, que atravessavam o espaço interplanetário em seus corcéis espaciais. Os Cavaleiros mostraram-se terrivelmente eficazes, pois eram virtualmente indestrutíveis e, além disso, controlados por Operadores humanos localizados em fortalezas seguras.
 
       Uma vez por ano, o Sistema declara uma trégua e um grande torneio em massa, La Grande Mêlée.
 
-      Os melhores Operadores das três guildas rivais enviam seus Cavaleiros robóticos, e os rivais de ontem se unem em duas equipes e deixam de lado suas diferenças por um tempo para determinar quem é o mais digno, o mais valente e o mais habilidoso no controle de suas máquinas de combate.
+      Os melhores Operadores das três guildas rivais enviam seus Cavaleiros robóticos, e os rivais de ontem unem-se em duas equipes e colocam suas diferenças de lado por um tempo para determinar quem é o mais digno, o mais valente e o mais habilidoso no controle de suas máquinas de combate.
+  - title: 404 Não Encontrado
+    index: 3
