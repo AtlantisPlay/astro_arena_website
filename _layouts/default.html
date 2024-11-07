@@ -36,6 +36,55 @@ layout: compress
     <link rel="manifest" href="site.webmanifest">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript">
+
+        const cookieName = "userLang";
+
+        function setLanguageCookie(language, days = 180) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            document.cookie = `${cookieName}=${language}; expires=${date.toUTCString()}; path=/`;
+        }
+
+        function getLanguageCookieValue() {
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; ${cookieName}=`);
+            if (parts.length === 2) return parts.pop().split(';').shift();
+        }
+
+        const languageFolders = {
+        'en': '/',
+        {% for lang in site.languages %}
+        {% if lang == site.default_lang %}{% continue %}{% endif %}
+            '{{lang}}': '/{{lang}}/',
+        {% endfor %}
+        };
+        
+        if (window.location.pathname == '/') {
+            const savedLang = getLanguageCookieValue();
+            if (savedLang) {
+                if (savedLang != '{{ site.default_lang }}') {
+                    const redirectUrl = languageFolders[savedLang];
+                    if (redirectUrl) {
+                        window.location.href = redirectUrl;
+                    }
+                }
+            } else {
+                const userLang = navigator.language || navigator.userLanguage;
+                const langCode = userLang.split('-')[0];
+                const redirectUrl = languageFolders[langCode];
+                if (redirectUrl) {
+                    setLanguageCookie(langCode);
+                    window.location.href = redirectUrl;
+                }
+            }
+        }
+
+        function changeLanguage(languageCode) {
+            setLanguageCookie(languageCode);
+        }
+
+    </script>
 </head>
 
 <body>
@@ -50,9 +99,9 @@ layout: compress
                 {% for lang in site.languages %}
                     {% assign lang_name = site.data[lang].index.lang_name %}
                     {% if lang == site.default_lang %}
-                        <a href=" {{ page.url }}">{{ lang_name }}</a>
+                        <a onclick="changeLanguage('{{ lang }}')" href=" {{ page.url }}">{{ lang_name }}</a>
                     {% else %}
-                        <a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
+                        <a onclick="changeLanguage('{{ lang }}')" href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
                     {% endif %}
                 {% endfor %}
             </div>
