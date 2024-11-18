@@ -6,7 +6,7 @@
 
 body {
     color: #fff;
-    background: url('images/Background_1438x810.png') center center fixed;
+    background: url('/images/Background_1438x810.png') center center fixed;
     background-color: #1c2939;
     background-size: cover;
     font-family: 'Jost', Arial, sans-serif;
@@ -172,7 +172,7 @@ section {
 .feature {
     width: 47%;
     background: linear-gradient(135deg, #1f2c3c, #1d2a3a);
-    background: url('images/hero.png') no-repeat left;
+    background: url('/images/hero.png') no-repeat left;
     border-radius: 10px;
     padding: 60px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -227,7 +227,7 @@ section {
 
 .article-text {
     padding: 60px;
-    background-image: url('images/BG_Aftergame.jpg');
+    background-image: url('/images/BG_Aftergame.jpg');
     background-position: top center;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);

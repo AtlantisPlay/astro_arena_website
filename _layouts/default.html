@@ -12,16 +12,6 @@ layout: compress
     <meta name="description" content="{{site.data[site.active_lang].index.meta_description}}">
     {% assign data_page = site.data[site.active_lang].index.pages_list | where:"index", page.page_index  | first %}
     <title>{{ data_page["title"] }}</title>
-    <link rel="alternate" hreflang="{{ site.default_lang }}" href="{{ page.permalink | default: ' /' }}" />
-{% for lang in site.languages %}
-    {% if lang == site.default_lang %}{% continue %}{% endif %}
-    <link rel="alternate" hreflang="{{lang}}" href="/{{lang}}/{{page.permalink}}" />
-{% endfor %}
-{% if site.active_lang == site.default_lang %}
-    <base href="/">
-    {% else %}
-    <base href="../">
-{% endif %}
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,61 +20,14 @@ layout: compress
     <!-- Font Awesome for social media icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <!-- Favicon links -->
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="styles.css">
-    <script type="text/javascript">
-
-        const cookieName = "userLang";
-
-        function setLanguageCookie(language, days = 180) {
-            const date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            document.cookie = `${cookieName}=${language}; expires=${date.toUTCString()}; path=/`;
-        }
-
-        function getLanguageCookieValue() {
-            const value = `; ${document.cookie}`;
-            const parts = value.split(`; ${cookieName}=`);
-            if (parts.length === 2) return parts.pop().split(';').shift();
-        }
-
-        const languageFolders = {
-        'en': '/',
-        {% for lang in site.languages %}
-        {% if lang == site.default_lang %}{% continue %}{% endif %}
-            '{{lang}}': '/{{lang}}/',
-        {% endfor %}
-        };
-        
-        if (window.location.pathname == '/') {
-            const savedLang = getLanguageCookieValue();
-            if (savedLang) {
-                if (savedLang != '{{ site.default_lang }}') {
-                    const redirectUrl = languageFolders[savedLang];
-                    if (redirectUrl) {
-                        window.location.href = redirectUrl;
-                    }
-                }
-            } else {
-                const userLang = navigator.language || navigator.userLanguage;
-                const langCode = userLang.split('-')[0];
-                const redirectUrl = languageFolders[langCode];
-                if (redirectUrl) {
-                    setLanguageCookie(langCode);
-                    window.location.href = redirectUrl;
-                }
-            }
-        }
-
-        function changeLanguage(languageCode) {
-            setLanguageCookie(languageCode);
-        }
-
-    </script>
+    <link rel="stylesheet" href="/styles/styles.css">
+    {% include language_head.html %}
+    {% include google_analytics.html %}
 </head>
 
 <body>

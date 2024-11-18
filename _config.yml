@@ -30,7 +30,7 @@ plugins:
 #I18n
 languages: ["en", "zh", "de", "es", "fr", "hi", "ja", "ko", "pt", "tr", "uk"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public"]
+exclude_from_localization: ["javascript", "images", "styles", "public"]
 parallel_localization: false
 lang_from_path: true
 
