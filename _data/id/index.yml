@@ -1,0 +1,91 @@
+lang_name: Bahasa Indonesia
+title: Pertempuran ruang angkasa terbaik di mana Batu, Kertas, dan Gunting bertarung!
+meta_description: Medan perang ruang angkasa 2D berbasis tim yang cepat di mana Batu, Kertas, dan Gunting bertemu.
+screenshots: Tangkapan Layar
+gameplay: Gameplay
+features: Fitur
+welcome: Selamat datang di Astro Arena!
+follow_us: Ikuti Kami!
+features_list:
+  - image: 13
+    title: Arena Ruang Angkasa Dinamis
+    description: Bertarunglah di lingkungan ruang angkasa yang hidup dan penuh aksi. Refleks cepat dan keputusan taktis adalah kunci kemenangan.
+  - image: 4
+    title: Kemampuan Kuat
+    description: Dapatkan poin selama pertandingan dan buka kemampuan seperti menghilang dan peningkatan kecepatan untuk mendapatkan keunggulan.
+  - image: 1
+    title: Multiplayer Berbasis Tim
+    description: Bergabunglah dengan teman atau lawan pemain dari seluruh dunia dalam pertempuran tim yang intens dan kompetitif.
+  - image: 7
+    title: Manajemen Sumber Daya
+    description: Kumpulkan sumber daya berharga yang tersebar di arena dan gunakan secara strategis untuk membalikkan keadaan pertarungan.
+article_intro: Masuki medan perang ruang angkasa terbaik di mana strategi, refleks cepat, dan kerja tim bersatu. Dengan kemampuan kuat untuk dibuka dan lingkungan dinamis untuk dijelajahi, setiap pertandingan adalah tantangan baru.
+article_text: Pilih karaktermu—Batu, Kertas, atau Gunting—dan bertarunglah di arena yang intens dan cepat.
+article_outro: Baik Anda mengumpulkan sumber daya, mengecoh lawan, atau membantu tim Anda mendominasi, Astro Arena menawarkan aksi tanpa henti.
+article_wishlist: Tambahkan ke wishlist hari ini untuk menjadi yang pertama bergabung dalam pertempuran saat diluncurkan!
+rock: Batu
+paper: Kertas
+scissors: Gunting
+about: Tentang Astro Arena
+story: Cerita
+store_page: Halaman Steam
+rights_reserved: Hak Cipta Dilindungi.
+page_404: Halaman Tidak Ditemukan
+page_404_text: Halaman yang diminta tidak dapat ditemukan.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: Tentang Astro Arena
+    index: 1
+    text: |
+      **Astro Arena** adalah game multiplayer yang mendebarkan yang berlatar di arena ruang angkasa 2D dinamis. Pemain terlibat dalam pertempuran tim yang terinspirasi oleh mekanik klasik Batu, Kertas, Gunting. Game ini menggabungkan pertarungan strategis, manajemen sumber daya, dan kemampuan kuat, menarik bagi gamer kasual yang menyukai lingkungan kompetitif dan cepat.
+
+      ## Konsep
+
+      Dalam Astro Arena, pemain memilih antara tiga tipe karakter: Batu, Kertas, atau Gunting. Setiap tipe memiliki kekuatan dan kelemahan sendiri, menciptakan campuran yang mendebarkan dari kejar-kejaran, manuver taktis, dan pelarian yang terampil. Dinamika klasik hadir: Batu menghancurkan Gunting, Gunting memotong Kertas, dan Kertas menutupi Batu. Dikombinasikan dengan pertarungan arena yang cepat, ini menghasilkan gameplay intens di mana refleks cepat dan pemikiran strategis sangat penting.
+
+      ## Mekanika Permainan
+
+      Mode inti adalah pertempuran berbasis tim, di mana pemain bersaing untuk mengumpulkan sumber daya yang tersebar di arena atau mengalahkan lawan untuk mendapatkan keunggulan. Saat tim mengumpulkan sumber daya, mereka mendapatkan poin yang dapat ditukar dengan kemampuan sementara seperti menghilang atau peningkatan kecepatan. Kemampuan ini dapat membalikkan keadaan pertempuran, memungkinkan pemain mengecoh lawan atau menghindari bahaya.
+
+      ## Tim Pengembang
+
+      **AtlantisTeam Development Ltd**, di bawah merek AtlantisPlay, didirikan pada tahun 2019 oleh tim profesional pengembangan game. Dengan lokasi di Siprus, Israel, dan Ukraina, tim ini terdiri dari pengembang, seniman, dan desainer berpengalaman yang bersemangat menciptakan pengalaman gaming yang menarik.
+
+      Sejak didirikan, perusahaan telah mengembangkan banyak game untuk berbagai klien, mulai dari puzzle Match-3 dan Merge skala besar hingga game dari genre lain. Menciptakan game mereka sendiri telah menjadi impian para pendiri. Dengan dorongan untuk mengeksplorasi teknologi baru, perusahaan mengkonseptualisasikan Astro Arena pada akhir 2022. Menggunakan Godot Engine dan terinspirasi oleh mekanik Batu, Kertas, Gunting, mereka memulai proyek yang menarik ini.
+
+      Meskipun menghadapi tantangan akibat perang yang sedang berlangsung di Ukraina, di mana tim pengembang berbasis, tim telah bekerja tanpa lelah untuk mewujudkan Astro Arena.
+
+      ## Informasi Rilis
+
+      **Astro Arena** dijadwalkan rilis pada akhir 2024 di Steam untuk Windows PC. Game ini akan gratis untuk dimainkan, dengan pembelian dalam game tersedia untuk kustomisasi karakter dan kemampuan eksklusif. Pemain dapat menambahkan game ini ke wishlist mereka di Steam untuk tetap mendapatkan informasi terbaru dan pengumuman.
+  - title: Cerita
+    index: 2
+    text: |
+      Kemajuan teknologi, seperti yang diharapkan, tidak menunda runtuhnya peradaban Bumi, tetapi justru membawanya lebih dekat.
+
+      Dari Bumi Lama yang kelebihan penduduk dan sekarat, lima Bahtera berangkat ke planet-planet mirip Bumi yang berbeda. Masing-masing membawa 500 juta kolonis dan sekitar satu miliar robot pelayan cerdas.
+
+      Empat Bahtera menghilang dalam kegelapan ruang angkasa. Bahtera kelima berhasil mencapai tujuannya dan mendarat dengan sukses di planet yang cocok untuk kolonisasi. Dengan demikian, manusia menemukan rumah baru.
+
+      Kemudian masalah muncul. Ternyata selama bertahun-tahun perjalanan sub-cahaya, database Bahtera rusak, atau mungkin diisi dengan terburu-buru.
+
+      AI dari Bahtera Kelima mempertahankan semua pengetahuan tentang sains dan teknologi, tetapi kehilangan hampir seluruh data tentang humaniora dan budaya. Hanya perpustakaan besar novel roman ksatria dan petualangan yang entah bagaimana tersimpan dalam database.
+
+      Jadi, beberapa generasi kemudian, manusia, kehilangan akses ke sumber budaya lain, secara bertahap beralih ke teknofeodalisme.
+
+      Tak terduga, ini ternyata solusi yang baik untuk bertahan hidup di dunia baru. Keturunan manusia membuat kemajuan besar dalam robotika, tetapi secara sosial dan budaya tetap pada tingkat abad ke-14 Bumi. Masyarakat terbagi menjadi tiga guild, masing-masing menyimpan rahasia mereka dan membentuk korporasi yang tak tertembus bagi orang luar.
+
+      Serikat Pengrajin, dengan simbol Gunting, terlibat dalam manufaktur dan produksi.
+
+      Konklaf Scriptor, dengan panji-panji bertanda Kertas, secara tradisional mengkhususkan diri dalam pemrosesan informasi.
+
+      Dan Guild Penambang Sabuk dengan Batu di perisai mereka menambang asteroid kaya mineral.
+
+      Konflik feodal yang tak terhindarkan biasanya diperangi dengan bantuan Ksatria robotik berteknologi tinggi, yang melintasi ruang antarplanet dengan kuda ruang angkasa mereka. Ksatria ini terbukti sangat efektif, karena mereka hampir tak terkalahkan dan dikendalikan oleh Operator manusia yang berada di benteng aman.
+
+      Setahun sekali, Sistem mengumumkan gencatan senjata dan turnamen besar, La Grande Mêlée.
+
+      Operator terbaik dari tiga Guild saingan mengirim Ksatria robot mereka, dan rival kemarin bersatu dalam dua tim, menyingkirkan perbedaan mereka untuk sementara, untuk menentukan siapa yang paling layak, paling gagah berani, dan paling terampil dalam mengendalikan mesin tempur mereka.
+  - title: 404 Tidak Ditemukan
+    index: 3

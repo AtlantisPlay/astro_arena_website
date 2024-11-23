@@ -1,0 +1,91 @@
+lang_name: Polski
+title: Ostateczne kosmiczne pole bitwy, gdzie Kamień, Papier i Nożyce się ścierają!
+meta_description: Szybka, zespołowa 2D kosmiczna arena, gdzie Kamień, Papier i Nożyce się spotykają.
+screenshots: Zrzuty ekranu
+gameplay: Rozgrywka
+features: Funkcje
+welcome: Witamy w Astro Arena!
+follow_us: Śledź nas!
+features_list:
+  - image: 13
+    title: Dynamiczna Kosmiczna Arena
+    description: Walcz w żywej, pełnej akcji przestrzeni kosmicznej, gdzie szybki refleks i taktyczne decyzje są kluczem do zwycięstwa.
+  - image: 4
+    title: Potężne Umiejętności
+    description: Zdobywaj punkty podczas meczów i odblokuj zmieniające grę umiejętności, takie jak niewidzialność czy przyspieszenie, aby zyskać przewagę.
+  - image: 1
+    title: Zespołowy Tryb Multiplayer
+    description: Połącz siły z przyjaciółmi lub zmierz się z graczami z całego świata w intensywnych, konkurencyjnych bitwach drużynowych.
+  - image: 7
+    title: Zarządzanie Zasobami
+    description: Zbieraj cenne zasoby rozrzucone po arenie i strategicznie je wykorzystuj, aby przechylić szalę bitwy na swoją korzyść.
+article_intro: Wejdź na ostateczne kosmiczne pole bitwy, gdzie strategia, szybki refleks i praca zespołowa łączą się w jedno. Odblokuj potężne umiejętności i eksploruj dynamiczne światy—każdy mecz to nowe wyzwanie.
+article_text: Wybierz swoją postać—Kamień, Papier lub Nożyce—i walcz na intensywnej, szybkiej arenie.
+article_outro: Niezależnie czy zbierasz zasoby, przechytrzasz przeciwników czy pomagasz swojej drużynie dominować, Astro Arena oferuje nieustanną akcję.
+article_wishlist: Dodaj do listy życzeń już dziś, aby jako pierwszy dołączyć do bitwy po premierze!
+rock: Kamień
+paper: Papier
+scissors: Nożyce
+about: O Astro Arena
+story: Historia
+store_page: Strona Steam
+rights_reserved: Wszelkie prawa zastrzeżone.
+page_404: Strona nie znaleziona
+page_404_text: Nie znaleziono żądanej strony.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: O Astro Arena
+    index: 1
+    text: |
+      **Astro Arena** to ekscytująca gra multiplayer osadzona w dynamicznej 2D kosmicznej arenie, gdzie gracze biorą udział w zespołowych bitwach inspirowanych klasyczną mechaniką Kamień, Papier, Nożyce. Gra łączy strategiczną walkę, zarządzanie zasobami i potężne umiejętności, przyciągając casualowych graczy, którzy lubią konkurencyjne, szybkie środowiska.
+
+      ## Koncepcja
+
+      W Astro Arena gracze wybierają spośród trzech typów postaci: Kamień, Papier lub Nożyce. Każdy typ ma swoje mocne i słabe strony, tworząc ekscytującą mieszankę pościgów, taktycznych manewrów i sprytnych ucieczek. Klasyczna dynamika jest obecna: Kamień miażdży Nożyce, Nożyce tną Papier, a Papier pokonuje Kamień. Połączenie tego z szybką walką na arenie prowadzi do intensywnej rozgrywki, gdzie szybki refleks i strategiczne myślenie są kluczowe.
+
+      ## Mechanika Gry
+
+      Główny tryb to zespołowa bitwa, w której gracze rywalizują, zbierając zasoby rozrzucone po arenie lub pokonując przeciwników, aby zyskać przewagę. Zbierając zasoby, drużyny zdobywają punkty, które można wymienić na tymczasowe umiejętności, takie jak niewidzialność czy zwiększenie prędkości. Te umiejętności mogą zmienić przebieg bitwy, pozwalając graczom przechytrzyć przeciwników lub uniknąć niebezpieczeństwa.
+
+      ## Zespół Twórców
+
+      **AtlantisTeam Development Ltd**, działająca pod marką AtlantisPlay, została założona w 2019 roku przez zespół profesjonalistów w dziedzinie tworzenia gier. Z siedzibami na Cyprze, w Izraelu i na Ukrainie, zespół składa się z doświadczonych deweloperów, artystów i projektantów, którzy z pasją tworzą angażujące doświadczenia gamingowe.
+
+      Od momentu powstania firma opracowała liczne gry dla różnych klientów, od dużych gier typu Match-3 i Merge po gry innych gatunków. Stworzenie własnej gry było marzeniem założycieli. Chcąc eksplorować nowe technologie, firma w końcu 2022 roku zaprojektowała Astro Arena. Wykorzystując silnik Godot i inspirowani mechaniką Kamień, Papier, Nożyce, rozpoczęli ten ekscytujący projekt.
+
+      Pomimo wyzwań związanych z trwającą wojną na Ukrainie, gdzie mieści się zespół deweloperski, zespół nieustannie pracował, aby ożywić Astro Arena.
+
+      ## Informacje o Wydaniu
+
+      **Astro Arena** planowana jest do wydania pod koniec 2024 roku na platformie Steam dla komputerów z systemem Windows. Gra będzie darmowa, z opcjonalnymi zakupami w grze dla personalizacji postaci i ekskluzywnych umiejętności. Gracze mogą dodać grę do swojej listy życzeń na Steam, aby być na bieżąco z najnowszymi aktualizacjami i ogłoszeniami.
+  - title: Historia
+    index: 2
+    text: |
+      Postęp technologiczny, jak można było przewidzieć, nie opóźnił upadku cywilizacji na Ziemi, lecz przyspieszył jej nadejście.
+
+      Z przeludnionej i umierającej Starej Ziemi wyruszyło pięć Ark w kierunku różnych planet podobnych do Ziemi. Każda z nich przewoziła 500 milionów kolonistów i około miliarda inteligentnych robotów-sług.
+
+      Cztery Arki zaginęły w otchłani kosmosu. Piąta bezpiecznie dotarła do celu i z powodzeniem osiadła na planecie nadającej się do kolonizacji. W ten sposób ludzkość znalazła nowy dom.
+
+      Jednak pojawił się problem. Okazało się, że podczas lat podróży z prędkością podświetlną, bazy danych Arki zostały uszkodzone lub może wypełnione w pośpiechu.
+
+      Sztuczna inteligencja Piątej Arki zachowała całą wiedzę naukową i technologiczną, ale straciła niemal wszystkie dane z dziedziny humanistyki i kultury. W bazie danych przetrwała jedynie ogromna biblioteka romansów rycerskich i powieści przygodowych.
+
+      Tak więc, pokolenia później, ludzkość, pozbawiona dostępu do innych źródeł kultury, stopniowo zwróciła się ku techno-feudalizmowi.
+
+      Nieoczekiwanie okazało się to skutecznym rozwiązaniem dla przetrwania w nowym świecie. Potomkowie ziemian poczynili wielkie postępy w robotyce, ale społecznie i kulturowo pozostali na poziomie XIV wieku. Społeczeństwo podzieliło się na trzy gildie, z których każda strzegła swoich tajemnic i tworzyła korporację nieprzeniknioną dla obcych.
+
+      Unia Rzemieślników, której symbolem były Nożyce, zajmowała się wytwarzaniem i produkcją.
+
+      Konklawe Skrybów, pod sztandarem Papieru, tradycyjnie specjalizowało się w przetwarzaniu informacji.
+
+      Gildia Górników Pasa, z Kamieniem na tarczy, wydobywała bogate w minerały asteroidy.
+
+      Nieuniknione konflikty feudalne były zazwyczaj rozwiązywane za pomocą zaawansowanych technologicznie robotycznych Rycerzy, którzy przemierzali przestrzeń międzyplanetarną na swoich kosmicznych rumakach. Rycerze okazali się niezwykle skuteczni, będąc praktycznie niezniszczalnymi i sterowanymi przez ludzkich Operatorów w bezpiecznych fortecach.
+
+      Raz do roku System ogłasza rozejm i organizuje wielki turniej masowy, La Grande Mêlée.
+
+      Najlepsi Operatorzy z trzech rywalizujących Gildii wysyłają swoich robotycznych Rycerzy. Wczorajsi rywale jednoczą się w dwóch zespołach, odkładając na bok różnice, by ustalić, kto jest najgodniejszy, najodważniejszy i najsprawniejszy w kontrolowaniu swoich maszyn bojowych.
+  - title: 404 Nie znaleziono
+    index: 3

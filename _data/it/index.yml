@@ -1,0 +1,91 @@
+lang_name: Italiano
+title: Il campo di battaglia spaziale definitivo dove Sasso, Carta e Forbici si scontrano!
+meta_description: Un frenetico campo di battaglia spaziale 2D basato su squadre, dove Sasso, Carta e Forbici si scontrano.
+screenshots: Schermate
+gameplay: Gameplay
+features: Caratteristiche
+welcome: Benvenuti in Astro Arena!
+follow_us: Seguici!
+features_list:
+  - image: 13
+    title: Arena Spaziale Dinamica
+    description: Combatti in un ambiente spaziale vivace e ricco di azione, dove riflessi pronti e decisioni tattiche sono la chiave per la vittoria.
+  - image: 4
+    title: Abilità Potenti
+    description: Guadagna punti durante le partite e sblocca abilità che cambiano le sorti del gioco, come l'invisibilità e potenziamenti di velocità, per ottenere il vantaggio.
+  - image: 1
+    title: Multigiocatore Basato su Squadre
+    description: Unisci le forze con gli amici o sfida giocatori di tutto il mondo in intense battaglie di squadra competitive.
+  - image: 7
+    title: Gestione delle Risorse
+    description: Raccogli risorse preziose sparse nell'arena e usale strategicamente per cambiare le sorti della battaglia a tuo favore.
+article_intro: "Entra nel campo di battaglia spaziale definitivo, dove strategia, riflessi pronti e lavoro di squadra si fondono. Sblocca potenti abilità ed esplora ambienti dinamici: ogni partita è una nuova sfida."
+article_text: Scegli il tuo personaggio—Sasso, Carta o Forbici—e combatti in un'arena intensa e frenetica.
+article_outro: Che tu stia raccogliendo risorse, ingannando gli avversari o aiutando la tua squadra a dominare, Astro Arena offre azione senza sosta.
+article_wishlist: Aggiungilo alla tua lista dei desideri oggi stesso per essere tra i primi a unirti alla battaglia al lancio!
+rock: Sasso
+paper: Carta
+scissors: Forbici
+about: Informazioni su Astro Arena
+story: La Storia
+store_page: Pagina Steam
+rights_reserved: Tutti i diritti riservati.
+page_404: Pagina Non Trovata
+page_404_text: La pagina richiesta non è stata trovata.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: Informazioni su Astro Arena
+    index: 1
+    text: |
+      **Astro Arena** è un emozionante gioco multiplayer ambientato in una dinamica arena spaziale 2D. I giocatori si affrontano in battaglie a squadre ispirate alla classica meccanica di Sasso, Carta, Forbici. Il gioco unisce combattimenti strategici, gestione delle risorse e potenti abilità, ed è ideale per i giocatori casual che amano ambienti competitivi e frenetici.
+
+      ## Il Concetto
+
+      In Astro Arena, puoi scegliere tra tre tipi di personaggi: Sasso, Carta o Forbici. Ognuno ha i suoi punti di forza e di debolezza, creando un mix emozionante di inseguimenti, manovre tattiche ed evasioni abili. La dinamica classica è presente: il Sasso schiaccia le Forbici, le Forbici tagliano la Carta, e la Carta copre il Sasso. Combinata con combattimenti in arena ad alta velocità, questa meccanica offre un gameplay intenso, dove riflessi pronti e strategia sono essenziali.
+
+      ## Meccaniche di Gioco
+
+      Il principale modo di gioco è la battaglia a squadre, dove i giocatori competono per raccogliere risorse sparse nell'arena o sconfiggere gli avversari per ottenere un vantaggio. Raccogliendo risorse, le squadre guadagnano punti da scambiare con abilità temporanee come l'invisibilità o l'aumento di velocità. Queste abilità possono cambiare le sorti della battaglia, consentendo ai giocatori di superare in astuzia gli avversari o sfuggire al pericolo.
+
+      ## Il Team di Sviluppo
+
+      **AtlantisTeam Development Ltd**, sotto il marchio AtlantisPlay, è stata fondata nel 2019 da un gruppo di professionisti dello sviluppo di giochi. Con sedi a Cipro, Israele e Ucraina, il team è composto da sviluppatori, artisti e designer esperti, appassionati di creare esperienze di gioco coinvolgenti.
+
+      Sin dalla sua nascita, l'azienda ha sviluppato numerosi giochi per diversi clienti, dai grandi puzzle Match-3 e Merge a giochi di altri generi. Realizzare un proprio gioco è sempre stato il sogno dei fondatori e, con la voglia di esplorare nuove tecnologie, l'azienda ha concepito Astro Arena alla fine del 2022. Usando il motore Godot e ispirati dalla meccanica di Sasso, Carta, Forbici, hanno iniziato questo entusiasmante progetto.
+
+      Nonostante le difficoltà causate dalla guerra in corso in Ucraina, dove il team di sviluppo ha sede, la squadra ha lavorato instancabilmente per portare Astro Arena alla luce.
+
+      ## Informazioni sul Rilascio
+
+      **Astro Arena** è previsto per il rilascio alla fine del 2024 su Steam per PC Windows. Il gioco sarà gratuito, con acquisti in-game per la personalizzazione dei personaggi e abilità esclusive. I giocatori possono aggiungere il gioco alla loro lista dei desideri su Steam per ricevere gli ultimi aggiornamenti e annunci.
+  - title: La Storia
+    index: 2
+    text: |
+      Il progresso tecnologico, come previsto, non ha ritardato il crollo della civiltà terrestre, ma lo ha avvicinato ancora di più.
+
+      Dalla vecchia Terra, sovrappopolata e morente, cinque Arche partirono verso diversi pianeti simili alla Terra. Ciascuna trasportava 500 milioni di coloni e circa un miliardo di robot intelligenti come servitori.
+
+      Quattro Arche scomparvero nell'oscurità dello spazio. La quinta raggiunse la sua destinazione in sicurezza e atterrò con successo su un pianeta adatto alla colonizzazione. Così, l'umanità trovò una nuova casa.
+
+      Ma emerse un problema. Si scoprì che, negli anni di viaggio a velocità sub-luce, i database dell'Arca si erano danneggiati, o forse erano stati riempiti in fretta.
+
+      L'IA della Quinta Arca conservò tutte le conoscenze di scienza e tecnologia, ma perse quasi tutti i dati sulle discipline umanistiche e sulla cultura. Solo una enorme biblioteca di romanzi cavallereschi e d'avventura fu in qualche modo preservata nel database.
+
+      Così, generazioni dopo, l'umanità, avendo perso l'accesso ad altre fonti culturali, si rivolse gradualmente al tecno-feudalesimo.
+
+      In modo inaspettato, questo si rivelò una buona soluzione per sopravvivere nel nuovo mondo. I discendenti dei terrestri fecero grandi progressi nella robotica, ma socialmente e culturalmente rimasero al livello del XIV secolo terrestre. La società si divise in tre gilde, ciascuna delle quali custodiva i propri segreti e formava una corporazione impenetrabile agli estranei.
+
+      L'Unione degli Artigiani, il cui simbolo era un paio di Forbici, si occupava di manifattura e produzione.
+
+      Il Conclave degli Scriptor, le cui bandiere portavano il segno della Carta, tradizionalmente specializzato nell'elaborazione delle informazioni.
+
+      E la Gilda dei Minatori della Cintura, con il Sasso sul loro scudo, estraeva asteroidi ricchi di minerali.
+
+      Gli inevitabili conflitti feudali venivano di solito combattuti con l'aiuto di Cavalieri robotici ad alta tecnologia, che attraversavano lo spazio interplanetario sui loro destrieri spaziali. I Cavalieri si dimostrarono terribilmente efficaci, essendo praticamente indistruttibili e, inoltre, controllati da Operatori umani situati in fortezze sicure.
+
+      Una volta all'anno, il Sistema dichiara una tregua e un grande torneo di massa, La Grande Mêlée.
+
+      I migliori Operatori delle tre gilde rivali inviano i loro Cavalieri robotici, e i rivali di ieri si uniscono in due squadre, mettendo da parte le differenze per un po' per determinare chi è il più degno, il più valoroso e il più abile nel controllare le proprie macchine da combattimento.
+  - title: 404 Non Trovata
+    index: 3
