@@ -29,7 +29,7 @@ plugins:
   - jekyll-polyglot
 
 #I18n
-languages: ["en", "zh", "de", "es", "fr", "hi", "id", "it", "ja", "ko", "ms", "pl", "pt", "th", "tr", "uk"]
+languages: ["en", "uk", "de", "es", "fr", "hi", "id", "it", "ja", "ko", "ms", "pl", "pt", "th", "tr", "vi", "zh"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "styles", "public"]
 parallel_localization: false

@@ -1,0 +1,91 @@
+lang_name: Tiếng Việt
+title: Chiến trường không gian đỉnh cao, nơi Đá, Giấy, Kéo đối đầu!
+meta_description: Chiến trường không gian 2D tốc độ cao, chơi theo đội, nơi Đá, Giấy và Kéo đối đầu.
+screenshots: Ảnh chụp màn hình
+gameplay: Lối chơi
+features: Tính năng
+welcome: Chào mừng đến với Astro Arena!
+follow_us: Theo dõi chúng tôi!
+features_list:
+  - image: 13
+    title: Đấu trường không gian sôi động
+    description: Chiến đấu trong môi trường không gian sống động, đầy hành động, nơi phản xạ nhanh và quyết định chiến thuật là chìa khóa để chiến thắng.
+  - image: 4
+    title: Khả năng mạnh mẽ
+    description: Thu thập điểm trong trận đấu để mở khóa các khả năng mạnh mẽ như tàng hình và tăng tốc độ, giúp bạn chiếm ưu thế.
+  - image: 1
+    title: Chơi nhiều người theo đội
+    description: Hợp tác với bạn bè hoặc đối đầu với người chơi trên toàn thế giới trong các trận chiến đội đầy cạnh tranh và kịch tính.
+  - image: 7
+    title: Quản lý tài nguyên
+    description: Thu thập tài nguyên quý giá rải rác trên đấu trường và sử dụng chúng một cách chiến lược để xoay chuyển cục diện trận đấu có lợi cho bạn.
+article_intro: Hãy bước vào chiến trường không gian đỉnh cao, nơi chiến lược, phản xạ nhanh và làm việc nhóm hòa quyện. Mở khóa các khả năng mạnh mẽ và khám phá môi trường động. Mỗi trận đấu là một thử thách mới.
+article_text: Hãy chọn nhân vật—Đá, Giấy, hoặc Kéo—và chiến đấu trong đấu trường nhịp độ nhanh, đầy kịch tính.
+article_outro: Dù bạn đang thu thập tài nguyên, vượt mặt đối thủ, hay giúp đội của mình chiếm ưu thế, Astro Arena mang đến hành động không ngừng nghỉ.
+article_wishlist: Thêm vào danh sách mong muốn hôm nay để trở thành người đầu tiên tham gia trận chiến khi game ra mắt!
+rock: Đá
+paper: Giấy
+scissors: Kéo
+about: Về Astro Arena
+story: Câu chuyện
+store_page: Trang cửa hàng Steam
+rights_reserved: Mọi quyền được bảo lưu.
+page_404: Không tìm thấy trang
+page_404_text: Không thể tìm thấy trang bạn yêu cầu.
+pages_list:
+  - title: Astro Arena
+    index: 0
+  - title: Về Astro Arena
+    index: 1
+    text: |
+      **Astro Arena** là một game nhiều người chơi hấp dẫn, diễn ra trong đấu trường không gian 2D động. Người chơi tham gia các trận chiến đội, lấy cảm hứng từ cơ chế Đá, Giấy, Kéo kinh điển. Trò chơi kết hợp chiến đấu chiến lược, quản lý tài nguyên và các khả năng mạnh mẽ, thu hút game thủ thích môi trường cạnh tranh, nhịp độ nhanh.
+
+      ## Ý tưởng
+
+      Trong Astro Arena, bạn chọn một trong ba loại nhân vật: Đá, Giấy hoặc Kéo. Mỗi loại có điểm mạnh và yếu riêng, tạo ra sự kết hợp hấp dẫn giữa truy đuổi, di chuyển chiến thuật và những pha thoát hiểm khéo léo. Cơ chế kinh điển vẫn tồn tại: Đá đập Kéo, Kéo cắt Giấy, Giấy bao Đá. Kết hợp với chiến đấu đấu trường tốc độ cao, điều này tạo nên lối chơi căng thẳng, nơi phản xạ nhanh và suy nghĩ chiến lược là quan trọng.
+
+      ## Cơ chế trò chơi
+
+      Chế độ chính là trận chiến đội, nơi người chơi cạnh tranh thu thập tài nguyên trên đấu trường hoặc đánh bại đối thủ để giành lợi thế. Khi đội thu thập tài nguyên, họ kiếm được điểm, có thể đổi lấy các khả năng tạm thời như tàng hình hay tăng tốc. Những khả năng này có thể thay đổi cục diện trận đấu, cho phép người chơi vượt mặt đối thủ hoặc thoát khỏi nguy hiểm.
+
+      ## Đội ngũ phát triển
+
+      **AtlantisTeam Development Ltd**, dưới thương hiệu AtlantisPlay, được thành lập năm 2019 bởi một nhóm chuyên gia phát triển game. Với trụ sở tại Síp, Israel và Ukraine, đội ngũ gồm các nhà phát triển, nghệ sĩ và nhà thiết kế có kinh nghiệm, đam mê tạo ra những trải nghiệm game hấp dẫn.
+
+      Kể từ khi thành lập, công ty đã phát triển nhiều trò chơi cho các khách hàng khác nhau, từ game giải đố Match-3 và Merge quy mô lớn đến các game thuộc nhiều thể loại khác. Việc tạo ra trò chơi của riêng mình là giấc mơ của những người sáng lập. Với mong muốn khám phá công nghệ mới, công ty đã lên ý tưởng Astro Arena vào cuối năm 2022. Sử dụng Godot Engine và lấy cảm hứng từ cơ chế Đá, Giấy, Kéo, họ đã bắt tay vào dự án thú vị này.
+
+      Mặc dù phải đối mặt với những thách thức do chiến tranh đang diễn ra ở Ukraine, nơi đội ngũ phát triển đang làm việc, nhóm đã nỗ lực không ngừng để hiện thực hóa Astro Arena.
+
+      ## Thông tin phát hành
+
+      **Astro Arena** dự kiến phát hành vào cuối năm 2024 trên Steam cho Windows PC. Trò chơi sẽ miễn phí, với các giao dịch mua trong game cho phép tùy chỉnh nhân vật và khả năng độc quyền. Người chơi có thể thêm game vào danh sách mong muốn trên Steam để cập nhật những thông tin và thông báo mới nhất.
+  - title: Câu chuyện
+    index: 2
+    text: |
+      Sự tiến bộ công nghệ, như đã dự đoán, không trì hoãn sự sụp đổ của nền văn minh Trái Đất, mà còn đưa nó đến gần hơn.
+
+      Từ Trái Đất cũ, quá tải dân số và đang chết dần, năm con tàu Ark đã bay đến các hành tinh giống Trái Đất khác nhau. Mỗi chiếc mang theo 500 triệu người định cư và khoảng một tỷ robot phục vụ thông minh.
+
+      Bốn con tàu Ark biến mất trong bóng tối của không gian. Chiếc thứ năm đã an toàn đến đích và hạ cánh thành công trên một hành tinh phù hợp để định cư. Nhờ đó, loài người tìm thấy ngôi nhà mới.
+
+      Rồi một vấn đề xuất hiện. Hóa ra trong nhiều năm du hành dưới tốc độ ánh sáng, cơ sở dữ liệu của Ark đã bị hỏng, hoặc có lẽ chúng được điền vội vàng.
+
+      Trí tuệ nhân tạo của Ark thứ năm giữ lại tất cả kiến thức về khoa học và công nghệ, nhưng mất gần như toàn bộ dữ liệu về nhân văn và văn hóa. Chỉ có một thư viện khổng lồ về tiểu thuyết hiệp sĩ và phiêu lưu bằng cách nào đó được lưu giữ trong cơ sở dữ liệu.
+
+      Vì vậy, nhiều thế hệ sau, nhân loại, mất quyền truy cập vào các nguồn văn hóa khác, dần dần chuyển sang chế độ phong kiến công nghệ.
+
+      Một cách khá bất ngờ, điều này trở thành giải pháp tốt cho sự sống còn trong thế giới mới. Con cháu của người Trái Đất đã đạt được tiến bộ lớn trong robot, nhưng về mặt xã hội và văn hóa vẫn ở mức thế kỷ 14 của Trái Đất. Xã hội được chia thành ba hội, mỗi hội giữ bí mật riêng và tạo thành một tổ chức không thể xâm nhập đối với người ngoài.
+
+      Hội Nghệ Nhân, với biểu tượng là chiếc Kéo, tham gia vào sản xuất và chế tạo.
+
+      Hội Scriptor, có biểu ngữ mang dấu hiệu Giấy, truyền thống chuyên về xử lý thông tin.
+
+      Và Hội Thợ Mỏ Vành Đai với biểu tượng Đá trên khiên của họ, khai thác các tiểu hành tinh giàu khoáng sản.
+
+      Những xung đột phong kiến không thể tránh khỏi thường được giải quyết với sự giúp đỡ của các Hiệp sĩ robot công nghệ cao, những người cưỡi trên ngựa sắt không gian băng qua khoảng không giữa các hành tinh. Các Hiệp sĩ tỏ ra cực kỳ hiệu quả, vì họ gần như không thể phá hủy và hơn nữa được điều khiển bởi các Người vận hành con người trong các pháo đài an toàn.
+
+      Mỗi năm một lần, Hệ thống tuyên bố đình chiến và tổ chức một giải đấu lớn, La Grande Mêlée.
+
+      Những Người vận hành giỏi nhất của ba Hội đối thủ gửi các Hiệp sĩ robot của họ, và những đối thủ hôm qua hợp nhất thành hai đội, tạm gác lại sự khác biệt để xác định ai là người xứng đáng nhất, dũng cảm nhất và tài giỏi nhất trong việc điều khiển các cỗ máy chiến đấu của họ.
+  - title: 404 Không tìm thấy
+    index: 3
