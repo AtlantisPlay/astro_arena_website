@@ -133,6 +133,19 @@ section {
     height: 188px;
 }
 
+.arrow {
+    text-align: right;
+    position: relative;
+    top: -216px;
+    right: -103px;
+    height: 0;
+}
+
+.arrow img {
+    width: 89px;
+    height: auto;
+}
+
 .availability {
     font-size: 1.25rem;
     color: #a3ff84;
@@ -342,6 +355,10 @@ footer i {
     header p {
         font-size: 1.5rem;
         margin-bottom: 2rem;
+    }
+
+    .arrow {
+        display: none;
     }
 
     .screenshots-gallery img,
