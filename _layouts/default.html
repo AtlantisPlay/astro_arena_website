@@ -10,7 +10,7 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Language" content="{{site.active_lang}}">
     <meta name="description" content="{{site.data[site.active_lang].index.meta_description}}">
-    {% assign data_page = site.data[site.active_lang].index.pages_list | where:"index", page.page_index  | first %}
+    {% assign data_page = site.data[site.active_lang].index.pages_list | where:"index", page.page_index | first %}
     <title>{{ data_page["title"] }}</title>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,30 +57,40 @@ layout: compress
         <h2>{{site.data[site.active_lang].index.follow_us}}</h2>
         <div class="container">
             <div class="social-icons">
-                <a href="{{ site.twitter_url }}" class="social-link" title="Twitter" target="_blank"><i
+                <a href="{{ site.twitter_url }}" class="social-link" title="Twitter" target="_blank" data-label="Twitter"><i
                         class="fa-brands fa-x-twitter"></i></a>
-                <a href="{{ site.bluesky_url }}" class="social-link" title="Bluesky" target="_blank"><i
+                <a href="{{ site.bluesky_url }}" class="social-link" title="Bluesky" target="_blank" data-label="Bluesky"><i
                             class="fa-brands fa-bluesky"></i></a>
                 <a href="{{ site.youtube_url }}" class="social-link" title="YouTube"
-                    target="_blank"><i class="fab fa-youtube"></i></a>
+                    target="_blank" data-label="YouTube"><i class="fab fa-youtube"></i></a>
                 <!-- <a href="https://www.reddit.com/r/AstroArenaOnline" class="social-link" title="Reddit"
                     target="_blank"><i class="fab fa-reddit"></i></a> -->
-                <a href="{{ site.discord_url }}" class="social-link" title="Discord" target="_blank"><i
+                <a href="{{ site.discord_url }}" class="social-link" title="Discord" target="_blank" data-label="Discord"><i
                         class="fab fa-discord"></i></a>
                 <script language="javascript"
-                    type="text/javascript">var a = "natasha"; document.write("<a class='social-link' title='Email' href='mailto:" + a + "@atlantisplay.com'><i class='fas fa-envelope'></i></a>");</script>
+                    type="text/javascript">var a = "natasha"; document.write("<a class='social-link' title='Email' href='mailto:" + a + "@atlantisplay.com' data-label='Email'><i class='fas fa-envelope'></i></a>");</script>
             </div>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p><a href="/about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="/story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="{{ site.steam_store_url }}" target="_blank"><i
+            <p><a href="/about.html">{{site.data[site.active_lang].index.about}}</a> | <a href="/story.html">{{site.data[site.active_lang].index.story}}</a> | <a href="{{ site.steam_store_url }}" target="_blank" data-label="Steam Store"><i
                 class="fab fa-steam"></i>{{site.data[site.active_lang].index.store_page}}</a></p>
-            <p>&copy; {{ site.time | date: '%Y' }} <a href="https://atlantisplay.com/">AtlantisTeam Development Ltd</a>. {{site.data[site.active_lang].index.rights_reserved}}
+            <p>&copy; {{ site.time | date: '%Y' }} <a href="https://atlantisplay.com/" data-label="AtlantisTeam">AtlantisTeam Development Ltd</a>. {{site.data[site.active_lang].index.rights_reserved}}
             </p>
         </div>
     </footer>
+    <script>
+        document.querySelectorAll('a[data-label]').forEach(function(element) {
+            element.addEventListener('click', function() {
+                const label = element.getAttribute('data-label');
+                gtag('event', 'link_click', {
+                    'event_label': label
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>
