@@ -7,6 +7,12 @@ page_index: 0
     <div class="container">
         <img src="images/logo.png" alt="Astro Arena" class="logo-image" />
         <p>{{site.data[site.active_lang].index.title}}</p>
+        {% if site.active_lang == "uk" %}
+        <div class="madeInUkraine">
+            <img src="images/ua.png" alt="Ukraine Flag">
+            <div class="madeInText">Зроблено в Україні!</div>
+        </div>
+        {% endif %}
     </div>
 </header>
 
