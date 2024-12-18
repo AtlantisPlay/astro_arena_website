@@ -23,7 +23,7 @@ features_list:
 article_intro: Step into the ultimate space battleground where strategy, quick reflexes, and teamwork come together. With powerful abilities to unlock and dynamic environments to explore, every match is a new challenge.
 article_text: Choose your character—Rock, Paper, or Scissors—and battle it out in an intense, fast-paced arena.
 article_outro: Whether you're collecting resources, outwitting your opponents, or helping your team dominate, Astro Arena offers non-stop action.
-article_wishlist: Wishlist today to be the first to join the battle when it launches!
+article_call_to_action: Play Astro Arena on Steam now!
 rock: Rock
 paper: Paper
 scissors: Scissors
@@ -59,7 +59,7 @@ pages_list:
 
       ## Release Information
 
-      **Astro Arena** is scheduled for release in late 2024 on Steam for Windows PC. The game will be free to play, with in-game purchases available for character customization and exclusive abilities. Players can wishlist the game on Steam to stay informed about the latest updates and announcements.
+      **Astro Arena** is available on Steam for Windows PC. The game is free to play, with in-game purchases available for character customization and exclusive abilities. Players can follow the game on their social media accounts to stay informed about the latest updates and announcements.
   - title: The Story
     index: 2
     text: |
