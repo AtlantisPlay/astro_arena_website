@@ -31,7 +31,7 @@ plugins:
 #I18n
 languages: ["en", "uk", "de", "es", "fr", "hi", "id", "it", "ja", "ko", "ms", "pl", "pt", "th", "tr", "vi", "zh"]
 default_lang: "en"
-exclude_from_localization: ["images", "styles", "CNAME", "google4c31474665a98cde.html", "favicon.ico"]
+exclude_from_localization: ["images", "styles", "CNAME", "google4c31474665a98cde.html", "favicon.ico", "robots.txt", "sitemap.xml"]
 parallel_localization: false
 lang_from_path: true
 
