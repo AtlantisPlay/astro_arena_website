@@ -31,7 +31,7 @@ plugins:
 #I18n
 languages: ["en", "uk", "de", "es", "fr", "hi", "id", "it", "ja", "ko", "ms", "pl", "pt", "th", "tr", "vi", "zh"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "images", "styles", "public"]
+exclude_from_localization: ["images", "styles", "CNAME", "google4c31474665a98cde.html", "favicon.ico"]
 parallel_localization: false
 lang_from_path: true
 
@@ -46,7 +46,9 @@ compress_html:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - ed25519
+  - ed25519.pub
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
