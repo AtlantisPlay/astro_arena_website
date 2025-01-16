@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: https://astroarena.space
+
 steam_store_url: https://store.steampowered.com/app/2997190/Astro_Arena/
 youtube_url: https://www.youtube.com/@AstroArenaGame/videos
 twitter_url: https://x.com/AstroArenaSpace
